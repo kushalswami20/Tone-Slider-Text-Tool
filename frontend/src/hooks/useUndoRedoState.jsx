@@ -1,86 +1,91 @@
-// hooks/useUndoRedoState.js
 import { useState, useCallback } from 'react';
 
 /**
- * Custom hook that provides undo/redo functionality for any state
- * @param {any} initialValue - The initial state value
- * @param {any} defaultValue - The default state value to reset to (optional)
- * @returns {Object} An object containing the current value, methods to update it, and undo/redo state
+ * Custom hook for managing state with undo/redo functionality
+ * @param {any} initialValue - The initial value for the state
+ * @param {number} maxHistory - Maximum number of history states to keep
+ * @returns {Object} - State object with value, setValue, undo, redo, etc.
  */
-const useUndoRedoState = (initialValue, defaultValue = initialValue) => {
-  // Main current value
-  const [value, setValue] = useState(initialValue);
+const useUndoRedoState = (initialValue, maxHistory = 50) => {
+  // State for current value
+  const [value, setInternalValue] = useState(initialValue);
   
-  // History stacks
-  const [past, setPast] = useState([]);
-  const [future, setFuture] = useState([]);
+  // State for history tracking
+  const [history, setHistory] = useState([initialValue]);
+  const [historyIndex, setHistoryIndex] = useState(0);
   
-  // Update value and add to history
-  const updateValue = useCallback((newValue) => {
-    // If it's a function, call it with the current value
-    const updatedValue = typeof newValue === 'function' 
-      ? newValue(value) 
-      : newValue;
+  /**
+   * Update the value and add to history
+   * @param {any} newValue - New value to set
+   */
+  const setValue = useCallback((newValue) => {
+    setInternalValue(newValue);
     
-    // Only update if value actually changed
-    if (updatedValue !== value) {
-      // Save current value to history before updating
-      setPast(prev => [...prev, value]);
+    // Add to history, but only if it's different from the current value
+    setHistory(prevHistory => {
+      // Create a new history array with items up to current index
+      const newHistory = prevHistory.slice(0, historyIndex + 1);
       
-      // Clear future history on new changes
-      setFuture([]);
+      // Check if the new value is different from the current value
+      const lastValue = newHistory[newHistory.length - 1];
+      const valueChanged = JSON.stringify(lastValue) !== JSON.stringify(newValue);
       
-      // Update the current value
-      setValue(updatedValue);
-    }
-  }, [value]);
+      if (valueChanged) {
+        // Add new value to history, trim if needed
+        const updatedHistory = [...newHistory, newValue];
+        if (updatedHistory.length > maxHistory) {
+          updatedHistory.shift();
+        }
+        
+        // Update the index to point to the new value
+        setHistoryIndex(updatedHistory.length - 1);
+        return updatedHistory;
+      }
+      
+      return newHistory;
+    });
+  }, [historyIndex, maxHistory]);
   
-  // Undo - go back to previous state
+  /**
+   * Undo the last change
+   */
   const undo = useCallback(() => {
-    if (past.length > 0) {
-      // Get the last item from past
-      const newPast = [...past];
-      const previousValue = newPast.pop();
-      
-      // Move current value to future
-      setFuture(prev => [value, ...prev]);
-      
-      // Update states
-      setPast(newPast);
-      setValue(previousValue);
+    if (historyIndex > 0) {
+      const newIndex = historyIndex - 1;
+      setHistoryIndex(newIndex);
+      setInternalValue(history[newIndex]);
     }
-  }, [past, value]);
+  }, [history, historyIndex]);
   
-  // Redo - go forward to next state
+  /**
+   * Redo a previously undone change
+   */
   const redo = useCallback(() => {
-    if (future.length > 0) {
-      // Get the first item from future
-      const [nextValue, ...newFuture] = future;
-      
-      // Move current value to past
-      setPast(prev => [...prev, value]);
-      
-      // Update states
-      setFuture(newFuture);
-      setValue(nextValue);
+    if (historyIndex < history.length - 1) {
+      const newIndex = historyIndex + 1;
+      setHistoryIndex(newIndex);
+      setInternalValue(history[newIndex]);
     }
-  }, [future, value]);
+  }, [history, historyIndex]);
   
-  // Reset to default value
+  /**
+   * Reset the state to the initial value
+   */
   const reset = useCallback(() => {
-    setValue(defaultValue);
-    setPast([]);
-    setFuture([]);
-  }, [defaultValue]);
+    setInternalValue(initialValue);
+    setHistory([initialValue]);
+    setHistoryIndex(0);
+  }, [initialValue]);
   
   return {
     value,
-    setValue: updateValue,
+    setValue,
     undo,
     redo,
     reset,
-    canUndo: past.length > 0,
-    canRedo: future.length > 0
+    canUndo: historyIndex > 0,
+    canRedo: historyIndex < history.length - 1,
+    historyLength: history.length
   };
 };
 

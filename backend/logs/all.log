@@ -414,3 +414,713 @@
 2025-05-05 12:24:32:2432 [32minfo[39m: [32m[c179c98a-0c5b-4953-acb6-0db7504ddccf] Tone adjustment successful[39m
 2025-05-05 12:24:33:2433 [32minfo[39m: [32m[23954d94-57a0-4473-84ed-438c11c5fb99] Tone adjustment request received: 58 chars, tone: 50[39m
 2025-05-05 12:24:33:2433 [32minfo[39m: [32m[23954d94-57a0-4473-84ed-438c11c5fb99] Cache hit for tone adjustment[39m
+2025-05-05 13:23:56:2356 [32minfo[39m: [32m[d0c4c6cb-a8b1-488f-8dd3-68fc2a5c7ba6] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 13:23:57:2357 [32minfo[39m: [32m[d0c4c6cb-a8b1-488f-8dd3-68fc2a5c7ba6] Tone adjustment successful[39m
+2025-05-05 13:23:58:2358 [32minfo[39m: [32m[73967364-5809-475b-b9fc-0adbc7021137] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 13:23:58:2358 [32minfo[39m: [32m[73967364-5809-475b-b9fc-0adbc7021137] Cache hit for tone adjustment[39m
+2025-05-05 13:42:09:429 [32minfo[39m: [32m[6d72ab64-e73c-403b-ab92-60ad50faa031] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 13:42:09:429 [32minfo[39m: [32m[6d72ab64-e73c-403b-ab92-60ad50faa031] Cache hit for tone adjustment[39m
+2025-05-05 14:02:54:254 [32minfo[39m: [32m[fb7b9d6a-1707-444a-86a7-a6a5c3edbdeb] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:02:55:255 [32minfo[39m: [32m[fb7b9d6a-1707-444a-86a7-a6a5c3edbdeb] Tone adjustment successful[39m
+2025-05-05 14:02:55:255 [32minfo[39m: [32m[4727cf23-66d6-47f8-98d7-409761633c02] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:02:55:255 [32minfo[39m: [32m[4727cf23-66d6-47f8-98d7-409761633c02] Cache hit for tone adjustment[39m
+2025-05-05 14:02:56:256 [32minfo[39m: [32m[74d70e4a-ed20-4876-94d4-65f677c4fa6a] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:02:57:257 [32minfo[39m: [32m[74d70e4a-ed20-4876-94d4-65f677c4fa6a] Cache hit for tone adjustment[39m
+2025-05-05 14:03:00:30 [32minfo[39m: [32m[a3ac3ff9-0468-4e89-983c-c4ea30178525] Tone adjustment request received: 58 chars, tone: 100[39m
+2025-05-05 14:03:01:31 [32minfo[39m: [32m[a3ac3ff9-0468-4e89-983c-c4ea30178525] Tone adjustment successful[39m
+2025-05-05 14:03:03:33 [32minfo[39m: [32m[d96bc153-3a97-41d0-89ce-87afcc471de2] Tone adjustment request received: 58 chars, tone: 95[39m
+2025-05-05 14:03:03:33 [32minfo[39m: [32m[d96bc153-3a97-41d0-89ce-87afcc471de2] Tone adjustment successful[39m
+2025-05-05 14:03:05:35 [32minfo[39m: [32m[334914a5-641b-471d-8fda-d67ba24d9a1d] Tone adjustment request received: 58 chars, tone: 91[39m
+2025-05-05 14:03:05:35 [32minfo[39m: [32m[334914a5-641b-471d-8fda-d67ba24d9a1d] Tone adjustment successful[39m
+2025-05-05 14:03:07:37 [32minfo[39m: [32m[4662869f-8e77-40d1-a354-430a2b446a3c] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:03:07:37 [32minfo[39m: [32m[4662869f-8e77-40d1-a354-430a2b446a3c] Tone adjustment successful[39m
+2025-05-05 14:03:08:38 [32minfo[39m: [32m[c9c58253-35cb-4b41-bec7-142f4b5586fb] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:03:08:38 [32minfo[39m: [32m[c9c58253-35cb-4b41-bec7-142f4b5586fb] Cache hit for tone adjustment[39m
+2025-05-05 14:04:45:445 [32minfo[39m: [32m[61449ab5-783c-4d12-98b9-5b2b1f3c9e18] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:04:45:445 [32minfo[39m: [32m[61449ab5-783c-4d12-98b9-5b2b1f3c9e18] Cache hit for tone adjustment[39m
+2025-05-05 14:04:50:450 [32minfo[39m: [32m[d6be73f6-5560-4395-8859-f23abdb78fdf] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:04:50:450 [32minfo[39m: [32m[d6be73f6-5560-4395-8859-f23abdb78fdf] Cache hit for tone adjustment[39m
+2025-05-05 14:04:53:453 [32minfo[39m: [32m[bee0619a-b7ef-4371-bd28-9ad0b341373a] Tone adjustment request received: 58 chars, tone: 49[39m
+2025-05-05 14:04:54:454 [32minfo[39m: [32m[bee0619a-b7ef-4371-bd28-9ad0b341373a] Tone adjustment successful[39m
+2025-05-05 14:04:55:455 [32minfo[39m: [32m[e941a517-652c-4852-8563-b8de453c3ac8] Tone adjustment request received: 58 chars, tone: 49[39m
+2025-05-05 14:04:55:455 [32minfo[39m: [32m[e941a517-652c-4852-8563-b8de453c3ac8] Cache hit for tone adjustment[39m
+2025-05-05 14:04:57:457 [32minfo[39m: [32m[6c0263ec-cecc-4f6e-a66e-7b18d2594dbd] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:04:57:457 [32minfo[39m: [32m[6c0263ec-cecc-4f6e-a66e-7b18d2594dbd] Cache hit for tone adjustment[39m
+2025-05-05 14:04:58:458 [32minfo[39m: [32m[4d9f6b10-a997-4f2e-82ed-ca41d092317a] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:04:58:458 [32minfo[39m: [32m[4d9f6b10-a997-4f2e-82ed-ca41d092317a] Cache hit for tone adjustment[39m
+2025-05-05 14:05:01:51 [32minfo[39m: [32m[51ec912e-a253-4d55-8432-8676522c2057] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:05:01:51 [32minfo[39m: [32m[51ec912e-a253-4d55-8432-8676522c2057] Cache hit for tone adjustment[39m
+2025-05-05 14:05:14:514 [32minfo[39m: [32m[0337f328-cc0a-4edb-9846-b9c736e98a0a] Tone adjustment request received: 306 chars, tone: 88[39m
+2025-05-05 14:05:16:516 [32minfo[39m: [32m[0337f328-cc0a-4edb-9846-b9c736e98a0a] Tone adjustment successful[39m
+2025-05-05 14:05:16:516 [32minfo[39m: [32m[d8093f5c-1683-424b-80de-326518106e77] Tone adjustment request received: 306 chars, tone: 88[39m
+2025-05-05 14:05:16:516 [32minfo[39m: [32m[d8093f5c-1683-424b-80de-326518106e77] Cache hit for tone adjustment[39m
+2025-05-05 14:05:21:521 [32minfo[39m: [32m[2a6dc5f0-d81a-4ed2-add6-958b652d1a5c] Tone adjustment request received: 306 chars, tone: 3[39m
+2025-05-05 14:05:24:524 [32minfo[39m: [32m[2a6dc5f0-d81a-4ed2-add6-958b652d1a5c] Tone adjustment successful[39m
+2025-05-05 14:05:25:525 [32minfo[39m: [32m[536da801-5b5e-4609-8772-0f475346e360] Tone adjustment request received: 306 chars, tone: 3[39m
+2025-05-05 14:05:25:525 [32minfo[39m: [32m[536da801-5b5e-4609-8772-0f475346e360] Cache hit for tone adjustment[39m
+2025-05-05 14:05:38:538 [32minfo[39m: [32m[4e85c2b4-5644-4b80-b41c-996b73f662db] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:05:38:538 [32minfo[39m: [32m[4e85c2b4-5644-4b80-b41c-996b73f662db] Cache hit for tone adjustment[39m
+2025-05-05 14:05:39:539 [32minfo[39m: [32m[8b2e354b-e319-4a29-8cfd-8557fa844a58] Tone adjustment request received: 58 chars, tone: 88[39m
+2025-05-05 14:05:39:539 [32minfo[39m: [32m[8b2e354b-e319-4a29-8cfd-8557fa844a58] Cache hit for tone adjustment[39m
+2025-05-05 14:05:43:543 [32minfo[39m: [32m[2aa78817-419b-4af1-b083-b9bb1a4014a7] Tone adjustment request received: 306 chars, tone: 3[39m
+2025-05-05 14:05:43:543 [32minfo[39m: [32m[2aa78817-419b-4af1-b083-b9bb1a4014a7] Cache hit for tone adjustment[39m
+2025-05-05 14:05:45:545 [32minfo[39m: [32m[965cdca1-058a-4eb4-b93f-d172437e0475] Tone adjustment request received: 306 chars, tone: 3[39m
+2025-05-05 14:05:45:545 [32minfo[39m: [32m[965cdca1-058a-4eb4-b93f-d172437e0475] Cache hit for tone adjustment[39m
+2025-05-05 14:05:50:550 [32minfo[39m: [32m[a4bd0719-4381-4a1d-bb84-e98024f42a84] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:05:50:550 [32minfo[39m: [32m[a4bd0719-4381-4a1d-bb84-e98024f42a84] Cache hit for tone adjustment[39m
+2025-05-05 14:05:51:551 [32minfo[39m: [32m[a449f88f-9fd2-4d12-934c-42499f4552e1] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:05:51:551 [32minfo[39m: [32m[a449f88f-9fd2-4d12-934c-42499f4552e1] Cache hit for tone adjustment[39m
+2025-05-05 14:05:55:555 [32minfo[39m: [32m[2f964697-064c-4a6c-989d-95e64c5eed82] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:05:59:559 [32minfo[39m: [32m[2f964697-064c-4a6c-989d-95e64c5eed82] Tone adjustment successful[39m
+2025-05-05 14:06:00:60 [32minfo[39m: [32m[a420e838-4286-4559-9490-5d72130b677a] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:06:00:60 [32minfo[39m: [32m[a420e838-4286-4559-9490-5d72130b677a] Cache hit for tone adjustment[39m
+2025-05-05 14:06:03:63 [32minfo[39m: [32m[e5c523d3-0d5f-4932-8119-1e9fd31e1c5a] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:03:63 [32minfo[39m: [32m[e5c523d3-0d5f-4932-8119-1e9fd31e1c5a] Cache hit for tone adjustment[39m
+2025-05-05 14:06:05:65 [32minfo[39m: [32m[4fc9ec26-a705-4ffe-b035-8672be8e4306] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:06:05:65 [32minfo[39m: [32m[4fc9ec26-a705-4ffe-b035-8672be8e4306] Cache hit for tone adjustment[39m
+2025-05-05 14:06:06:66 [32minfo[39m: [32m[b309b31a-9e0e-4ebd-ab53-f466b545bef3] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:06:06:66 [32minfo[39m: [32m[b309b31a-9e0e-4ebd-ab53-f466b545bef3] Cache hit for tone adjustment[39m
+2025-05-05 14:06:08:68 [32minfo[39m: [32m[47e71bdc-e45e-4efd-b3c4-49f0a85e7dfe] Tone adjustment request received: 306 chars, tone: 0[39m
+2025-05-05 14:06:10:610 [32minfo[39m: [32m[47e71bdc-e45e-4efd-b3c4-49f0a85e7dfe] Tone adjustment successful[39m
+2025-05-05 14:06:11:611 [32minfo[39m: [32m[ebbef2a5-dd9c-492d-af76-e8b45ae977af] Tone adjustment request received: 306 chars, tone: 0[39m
+2025-05-05 14:06:11:611 [32minfo[39m: [32m[ebbef2a5-dd9c-492d-af76-e8b45ae977af] Cache hit for tone adjustment[39m
+2025-05-05 14:06:17:617 [32minfo[39m: [32m[fef185de-c2fb-447c-99d5-45fa27114aef] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:17:617 [32minfo[39m: [32m[fef185de-c2fb-447c-99d5-45fa27114aef] Cache hit for tone adjustment[39m
+2025-05-05 14:06:18:618 [32minfo[39m: [32m[15522b02-e322-494c-b39e-b11c176401da] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:18:618 [32minfo[39m: [32m[15522b02-e322-494c-b39e-b11c176401da] Cache hit for tone adjustment[39m
+2025-05-05 14:06:21:621 [32minfo[39m: [32m[73646f13-bda2-4927-b772-4e53adfbfd1b] Tone adjustment request received: 306 chars, tone: 0[39m
+2025-05-05 14:06:21:621 [32minfo[39m: [32m[73646f13-bda2-4927-b772-4e53adfbfd1b] Cache hit for tone adjustment[39m
+2025-05-05 14:06:23:623 [32minfo[39m: [32m[4d6555ca-7e0e-4ca6-a81c-33b6d63e6b59] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:23:623 [32minfo[39m: [32m[4d6555ca-7e0e-4ca6-a81c-33b6d63e6b59] Cache hit for tone adjustment[39m
+2025-05-05 14:06:25:625 [32minfo[39m: [32m[e468eb67-e159-4118-bf69-ebcb09441ef5] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:25:625 [32minfo[39m: [32m[e468eb67-e159-4118-bf69-ebcb09441ef5] Cache hit for tone adjustment[39m
+2025-05-05 14:06:28:628 [32minfo[39m: [32m[c95bea36-5bfe-4229-a9d6-220f336ffee2] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:06:28:628 [32minfo[39m: [32m[c95bea36-5bfe-4229-a9d6-220f336ffee2] Cache hit for tone adjustment[39m
+2025-05-05 14:06:29:629 [32minfo[39m: [32m[6111098c-96c4-4661-817b-b7080b51b53b] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:06:29:629 [32minfo[39m: [32m[6111098c-96c4-4661-817b-b7080b51b53b] Cache hit for tone adjustment[39m
+2025-05-05 14:06:31:631 [32minfo[39m: [32m[756e44a3-bfe4-4408-907d-b03cbaf4dc8c] Tone adjustment request received: 306 chars, tone: 100[39m
+2025-05-05 14:06:33:633 [32minfo[39m: [32m[756e44a3-bfe4-4408-907d-b03cbaf4dc8c] Tone adjustment successful[39m
+2025-05-05 14:06:34:634 [32minfo[39m: [32m[0dd17e8e-3d34-4d1b-bc27-1b7b350bb314] Tone adjustment request received: 306 chars, tone: 100[39m
+2025-05-05 14:06:34:634 [32minfo[39m: [32m[0dd17e8e-3d34-4d1b-bc27-1b7b350bb314] Cache hit for tone adjustment[39m
+2025-05-05 14:06:36:636 [32minfo[39m: [32m[e5d90ffb-4d65-4d4e-8567-bf1e506f94be] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:36:636 [32minfo[39m: [32m[e5d90ffb-4d65-4d4e-8567-bf1e506f94be] Cache hit for tone adjustment[39m
+2025-05-05 14:06:37:637 [32minfo[39m: [32m[153dfad9-69cd-4ce2-a5f6-c758c1212c54] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:06:37:637 [32minfo[39m: [32m[153dfad9-69cd-4ce2-a5f6-c758c1212c54] Cache hit for tone adjustment[39m
+2025-05-05 14:08:56:856 [32minfo[39m: [32m[4f9e34cb-b24e-4794-901d-f0f20a6b9726] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:08:57:857 [32minfo[39m: [32m[2bf97e56-2f05-4c0b-8aa2-339575a2aa39] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:08:58:858 [32minfo[39m: [32m[2bf97e56-2f05-4c0b-8aa2-339575a2aa39] Tone adjustment successful[39m
+2025-05-05 14:08:58:858 [32minfo[39m: [32m[4f9e34cb-b24e-4794-901d-f0f20a6b9726] Tone adjustment successful[39m
+2025-05-05 14:08:59:859 [32minfo[39m: [32m[fa1757dd-9ca9-469e-8700-6c59c87c9a24] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:08:59:859 [32minfo[39m: [32m[fa1757dd-9ca9-469e-8700-6c59c87c9a24] Cache hit for tone adjustment[39m
+2025-05-05 14:09:00:90 [32minfo[39m: [32m[617db6a9-c754-4f9d-806f-0b887e19425a] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:09:00:90 [32minfo[39m: [32m[617db6a9-c754-4f9d-806f-0b887e19425a] Cache hit for tone adjustment[39m
+2025-05-05 14:09:04:94 [32minfo[39m: [32m[dbd5fc77-6354-4a31-9165-70d0ed635338] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:09:04:94 [32minfo[39m: [32m[dbd5fc77-6354-4a31-9165-70d0ed635338] Cache hit for tone adjustment[39m
+2025-05-05 14:10:29:1029 [32minfo[39m: [32m[147000d2-9d77-4e91-acb4-1ad10c5a3036] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:10:29:1029 [32minfo[39m: [32m[147000d2-9d77-4e91-acb4-1ad10c5a3036] Cache hit for tone adjustment[39m
+2025-05-05 14:13:20:1320 [32minfo[39m: [32m[304cc8b1-39f7-4e9c-a1d5-ed0fe412b808] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:13:20:1320 [32minfo[39m: [32m[304cc8b1-39f7-4e9c-a1d5-ed0fe412b808] Cache hit for tone adjustment[39m
+2025-05-05 14:13:23:1323 [32minfo[39m: [32m[4b58efe0-6723-495d-9a79-0c1b91af0f4b] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:13:23:1323 [32minfo[39m: [32m[4b58efe0-6723-495d-9a79-0c1b91af0f4b] Cache hit for tone adjustment[39m
+2025-05-05 14:14:07:147 [32minfo[39m: [32m[d1b129de-c83f-4bfd-8bac-f8c5efedaf1c] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:14:07:147 [32minfo[39m: [32m[d1b129de-c83f-4bfd-8bac-f8c5efedaf1c] Cache hit for tone adjustment[39m
+2025-05-05 14:14:17:1417 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Text cannot exceed 5000 characters[39m
+2025-05-05 14:14:18:1418 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Text cannot exceed 5000 characters[39m
+2025-05-05 14:14:19:1419 [32minfo[39m: [32m[dae42d76-cefb-459b-9bfe-bb9e3a715280] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:14:19:1419 [32minfo[39m: [32m[dae42d76-cefb-459b-9bfe-bb9e3a715280] Cache hit for tone adjustment[39m
+2025-05-05 14:14:20:1420 [32minfo[39m: [32m[f02f2973-d205-47cc-a4db-9151b4444e0e] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:14:20:1420 [32minfo[39m: [32m[f02f2973-d205-47cc-a4db-9151b4444e0e] Cache hit for tone adjustment[39m
+2025-05-05 14:14:29:1429 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Text cannot exceed 5000 characters[39m
+2025-05-05 14:14:31:1431 [32minfo[39m: [32m[521ad932-b229-429c-bc92-9a6eb29f04e9] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:14:31:1431 [32minfo[39m: [32m[521ad932-b229-429c-bc92-9a6eb29f04e9] Cache hit for tone adjustment[39m
+2025-05-05 14:14:31:1431 [32minfo[39m: [32m[4a3da5e7-dced-4fc9-becd-1afcd699ec3a] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:14:31:1431 [32minfo[39m: [32m[4a3da5e7-dced-4fc9-becd-1afcd699ec3a] Cache hit for tone adjustment[39m
+2025-05-05 14:14:40:1440 [32minfo[39m: [32m[2e49062a-320a-4dda-a68c-ed3a7dc50d35] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:14:40:1440 [32minfo[39m: [32m[2e49062a-320a-4dda-a68c-ed3a7dc50d35] Cache hit for tone adjustment[39m
+2025-05-05 14:14:41:1441 [32minfo[39m: [32m[86e32dff-6b6b-4448-a6f8-f8423dd5efa3] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:14:41:1441 [32minfo[39m: [32m[86e32dff-6b6b-4448-a6f8-f8423dd5efa3] Cache hit for tone adjustment[39m
+2025-05-05 14:14:45:1445 [32minfo[39m: [32m[e4c99d98-d180-4594-8893-bf3330c0a09d] Tone adjustment request received: 306 chars, tone: 100[39m
+2025-05-05 14:14:45:1445 [32minfo[39m: [32m[e4c99d98-d180-4594-8893-bf3330c0a09d] Cache hit for tone adjustment[39m
+2025-05-05 14:14:46:1446 [32minfo[39m: [32m[745620ad-0340-42b0-bc8a-cc494e37d4aa] Tone adjustment request received: 306 chars, tone: 100[39m
+2025-05-05 14:14:46:1446 [32minfo[39m: [32m[745620ad-0340-42b0-bc8a-cc494e37d4aa] Cache hit for tone adjustment[39m
+2025-05-05 14:16:07:167 [32minfo[39m: [32m[84e9ea0c-3ca5-428f-9d37-19eeedb10382] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:16:08:168 [32minfo[39m: [32m[84e9ea0c-3ca5-428f-9d37-19eeedb10382] Tone adjustment successful[39m
+2025-05-05 14:16:08:168 [32minfo[39m: [32m[f9279df1-73c7-438e-905f-5ab5a72b254a] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:16:08:168 [32minfo[39m: [32m[f9279df1-73c7-438e-905f-5ab5a72b254a] Cache hit for tone adjustment[39m
+2025-05-05 14:16:11:1611 [32minfo[39m: [32m[9903093b-9be4-435e-91c3-8b6fcfe01c57] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:16:11:1611 [32minfo[39m: [32m[9903093b-9be4-435e-91c3-8b6fcfe01c57] Cache hit for tone adjustment[39m
+2025-05-05 14:16:20:1620 [32minfo[39m: [32m[44db6956-9a53-47ed-b2e1-570a133042a8] Tone adjustment request received: 306 chars, tone: 47[39m
+2025-05-05 14:16:22:1622 [32minfo[39m: [32m[44db6956-9a53-47ed-b2e1-570a133042a8] Tone adjustment successful[39m
+2025-05-05 14:16:23:1623 [32minfo[39m: [32m[518c86d7-c69f-4f63-b85f-f60cc3dc3146] Tone adjustment request received: 306 chars, tone: 47[39m
+2025-05-05 14:16:23:1623 [32minfo[39m: [32m[518c86d7-c69f-4f63-b85f-f60cc3dc3146] Cache hit for tone adjustment[39m
+2025-05-05 14:16:25:1625 [32minfo[39m: [32m[b461ec72-83e3-48c6-9309-6345acbd0af6] Tone adjustment request received: 306 chars, tone: 100[39m
+2025-05-05 14:16:25:1625 [32minfo[39m: [32m[b461ec72-83e3-48c6-9309-6345acbd0af6] Cache hit for tone adjustment[39m
+2025-05-05 14:16:26:1626 [32minfo[39m: [32m[52f6f56f-c6de-4e16-a03d-1d05eb865bb1] Tone adjustment request received: 306 chars, tone: 100[39m
+2025-05-05 14:16:26:1626 [32minfo[39m: [32m[52f6f56f-c6de-4e16-a03d-1d05eb865bb1] Cache hit for tone adjustment[39m
+2025-05-05 14:16:29:1629 [32minfo[39m: [32m[485d55a1-3cd4-4bb9-83c8-30277bbfa2fc] Tone adjustment request received: 306 chars, tone: 0[39m
+2025-05-05 14:16:29:1629 [32minfo[39m: [32m[485d55a1-3cd4-4bb9-83c8-30277bbfa2fc] Cache hit for tone adjustment[39m
+2025-05-05 14:16:30:1630 [32minfo[39m: [32m[6922baf8-bd33-4e93-b405-3b306e490862] Tone adjustment request received: 306 chars, tone: 0[39m
+2025-05-05 14:16:30:1630 [32minfo[39m: [32m[6922baf8-bd33-4e93-b405-3b306e490862] Cache hit for tone adjustment[39m
+2025-05-05 14:16:31:1631 [32minfo[39m: [32m[a1a5beba-48ac-4020-9b3b-1369529cf1f2] Tone adjustment request received: 306 chars, tone: 0[39m
+2025-05-05 14:16:31:1631 [32minfo[39m: [32m[a1a5beba-48ac-4020-9b3b-1369529cf1f2] Cache hit for tone adjustment[39m
+2025-05-05 14:16:32:1632 [32minfo[39m: [32m[81a70945-a270-4789-97ba-5b091c7a155a] Tone adjustment request received: 58 chars, tone: 100[39m
+2025-05-05 14:16:32:1632 [32minfo[39m: [32m[81a70945-a270-4789-97ba-5b091c7a155a] Cache hit for tone adjustment[39m
+2025-05-05 14:16:33:1633 [32minfo[39m: [32m[d999be7e-ff91-4830-adc9-1803a20f9288] Tone adjustment request received: 58 chars, tone: 100[39m
+2025-05-05 14:16:33:1633 [32minfo[39m: [32m[d999be7e-ff91-4830-adc9-1803a20f9288] Cache hit for tone adjustment[39m
+2025-05-05 14:16:34:1634 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:34:1634 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:35:1635 [32minfo[39m: [32m[a442bf8e-1a57-4d39-95c2-fe2bf294f556] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:16:35:1635 [32minfo[39m: [32m[a442bf8e-1a57-4d39-95c2-fe2bf294f556] Cache hit for tone adjustment[39m
+2025-05-05 14:16:36:1636 [32minfo[39m: [32m[78bab0a9-5d73-41d7-8dc1-2ea24d195a30] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:16:36:1636 [32minfo[39m: [32m[78bab0a9-5d73-41d7-8dc1-2ea24d195a30] Cache hit for tone adjustment[39m
+2025-05-05 14:16:39:1639 [32minfo[39m: [32m[b8064489-aa05-44ef-a775-0edd43e89f5d] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:16:39:1639 [32minfo[39m: [32m[b8064489-aa05-44ef-a775-0edd43e89f5d] Cache hit for tone adjustment[39m
+2025-05-05 14:16:40:1640 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:41:1641 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:41:1641 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:42:1642 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:43:1643 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:44:1644 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:45:1645 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:46:1646 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:46:1646 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:47:1647 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:48:1648 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:49:1649 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:50:1650 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:51:1651 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:51:1651 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:52:1652 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:53:1653 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:54:1654 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:55:1655 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:16:56:1656 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:17:55:1755 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:17:56:1756 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:17:57:1757 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:17:58:1758 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:17:59:1759 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:00:180 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:01:181 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:02:182 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:03:183 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:04:184 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:05:185 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:06:186 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:07:187 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:08:188 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:09:189 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:10:1810 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:11:1811 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:12:1812 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:13:1813 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:14:1814 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:15:1815 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:16:1816 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:17:1817 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:18:1818 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:19:1819 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:20:1820 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:21:1821 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:22:1822 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:23:1823 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:24:1824 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:25:1825 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:26:1826 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:27:1827 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:28:1828 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:29:1829 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:30:1830 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:31:1831 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:32:1832 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:33:1833 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:34:1834 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:35:1835 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:36:1836 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:37:1837 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:38:1838 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:39:1839 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:40:1840 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:41:1841 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:42:1842 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:43:1843 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:44:1844 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:45:1845 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:46:1846 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:47:1847 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:48:1848 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:49:1849 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:50:1850 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:51:1851 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:52:1852 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:53:1853 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:54:1854 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:55:1855 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:56:1856 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:57:1857 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:58:1858 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:18:59:1859 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:00:190 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:01:191 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:02:192 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:03:193 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:04:194 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:05:195 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:06:196 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:07:197 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:08:198 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:09:199 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:10:1910 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:11:1911 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:12:1912 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:13:1913 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:14:1914 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:15:1915 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:16:1916 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:17:1917 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:18:1918 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:19:1919 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:20:1920 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:21:1921 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:22:1922 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:23:1923 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:24:1924 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:25:1925 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:26:1926 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:27:1927 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:28:1928 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:29:1929 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:30:1930 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:31:1931 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:32:1932 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:33:1933 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:19:34:1934 [33mwarn[39m: [33m[POST] /api/v1/tone >> StatusCode: 400, Message: Tone value must be between 0 and 100[39m
+2025-05-05 14:28:20:2820 [32minfo[39m: [32mCache cleanup interval cleared[39m
+2025-05-05 14:28:21:2821 [32minfo[39m: [32mCache cleanup interval cleared[39m
+2025-05-05 14:28:21:2821 [32minfo[39m: [32mCache cleanup interval cleared[39m
+2025-05-05 14:28:21:2821 [32minfo[39m: [32mCache cleanup interval cleared[39m
+2025-05-05 14:29:25:2925 [32minfo[39m: [32mCache initialized with TTL: 1800000ms, Max Size: 500 items[39m
+2025-05-05 14:29:25:2925 [32minfo[39m: [32mServer running in development mode on port 5001[39m
+2025-05-05 14:29:25:2925 [32minfo[39m: [32mAPI is available at: http://localhost:5001/api/v1[39m
+2025-05-05 14:29:26:2926 [32minfo[39m: [32m[d64499be-e7f9-41b5-91ea-87fe8ac8fa4f] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:29:27:2927 [32minfo[39m: [32m[e37e67f9-a394-4aef-a1e0-3f5f0ff0b976] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:29:28:2928 [32minfo[39m: [32m[d64499be-e7f9-41b5-91ea-87fe8ac8fa4f] Tone adjustment successful[39m
+2025-05-05 14:29:29:2929 [32minfo[39m: [32m[7811244a-3dfe-42ea-8c70-df958c0062e0] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:29:29:2929 [32minfo[39m: [32m[7811244a-3dfe-42ea-8c70-df958c0062e0] Cache hit for tone adjustment[39m
+2025-05-05 14:29:29:2929 [32minfo[39m: [32m[e37e67f9-a394-4aef-a1e0-3f5f0ff0b976] Tone adjustment successful[39m
+2025-05-05 14:29:30:2930 [32minfo[39m: [32m[736fb107-ce57-49d7-8a98-55dacee18edc] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:29:30:2930 [32minfo[39m: [32m[736fb107-ce57-49d7-8a98-55dacee18edc] Cache hit for tone adjustment[39m
+2025-05-05 14:29:31:2931 [32minfo[39m: [32m[d7b61a27-764e-4e58-a802-16ab7cfda48c] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:29:31:2931 [32minfo[39m: [32m[d7b61a27-764e-4e58-a802-16ab7cfda48c] Cache hit for tone adjustment[39m
+2025-05-05 14:29:37:2937 [32minfo[39m: [32m[2fb362cb-4132-49f3-85b9-d345e26bcc40] Tone adjustment request received: 306 chars, tone: 97[39m
+2025-05-05 14:29:39:2939 [32minfo[39m: [32m[2fb362cb-4132-49f3-85b9-d345e26bcc40] Tone adjustment successful[39m
+2025-05-05 14:29:40:2940 [32minfo[39m: [32m[4de49ca1-5fc3-4201-8000-3ba80c1fc9ba] Tone adjustment request received: 306 chars, tone: 97[39m
+2025-05-05 14:29:40:2940 [32minfo[39m: [32m[4de49ca1-5fc3-4201-8000-3ba80c1fc9ba] Cache hit for tone adjustment[39m
+2025-05-05 14:29:41:2941 [32minfo[39m: [32m[4f38dc39-d121-4796-9f54-075255456036] Tone adjustment request received: 306 chars, tone: 97[39m
+2025-05-05 14:29:41:2941 [32minfo[39m: [32m[4f38dc39-d121-4796-9f54-075255456036] Cache hit for tone adjustment[39m
+2025-05-05 14:29:42:2942 [32minfo[39m: [32m[9ff430f5-6011-40e0-9d10-e023beb09bc4] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:29:43:2943 [32minfo[39m: [32m[9ff430f5-6011-40e0-9d10-e023beb09bc4] Tone adjustment successful[39m
+2025-05-05 14:29:44:2944 [32minfo[39m: [32m[4803a146-3ecb-4f4e-abea-17afd3e32d63] Tone adjustment request received: 58 chars, tone: 7[39m
+2025-05-05 14:29:47:2947 [32minfo[39m: [32m[4803a146-3ecb-4f4e-abea-17afd3e32d63] Tone adjustment successful[39m
+2025-05-05 14:29:48:2948 [32minfo[39m: [32m[8d524f95-85ea-455b-a409-45d027500a84] Tone adjustment request received: 58 chars, tone: 7[39m
+2025-05-05 14:29:48:2948 [32minfo[39m: [32m[8d524f95-85ea-455b-a409-45d027500a84] Cache hit for tone adjustment[39m
+2025-05-05 14:29:52:2952 [32minfo[39m: [32m[1446941c-0b77-41ae-a931-c7a31e62fadb] Tone adjustment request received: 58 chars, tone: 53[39m
+2025-05-05 14:29:53:2953 [32minfo[39m: [32m[1446941c-0b77-41ae-a931-c7a31e62fadb] Tone adjustment successful[39m
+2025-05-05 14:29:54:2954 [32minfo[39m: [32m[363a273c-6073-445c-ab9a-deed12d5f2a1] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:29:55:2955 [32minfo[39m: [32m[363a273c-6073-445c-ab9a-deed12d5f2a1] Tone adjustment successful[39m
+2025-05-05 14:29:56:2956 [32minfo[39m: [32m[434782f3-0677-4a86-b0f3-3d1f02cd113d] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:29:56:2956 [32minfo[39m: [32m[434782f3-0677-4a86-b0f3-3d1f02cd113d] Cache hit for tone adjustment[39m
+2025-05-05 14:29:57:2957 [32minfo[39m: [32m[496a20aa-be64-4566-8e61-df026f80ed48] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:29:57:2957 [32minfo[39m: [32m[496a20aa-be64-4566-8e61-df026f80ed48] Cache hit for tone adjustment[39m
+2025-05-05 14:30:10:3010 [32minfo[39m: [32m[08191690-cbaa-4fdc-a578-d23e35dbaa84] Tone adjustment request received: 306 chars, tone: 99[39m
+2025-05-05 14:30:11:3011 [32minfo[39m: [32m[08191690-cbaa-4fdc-a578-d23e35dbaa84] Tone adjustment successful[39m
+2025-05-05 14:30:12:3012 [32minfo[39m: [32m[8e56bf5f-2ff1-4bd6-ad58-9484b4d1e717] Tone adjustment request received: 306 chars, tone: 99[39m
+2025-05-05 14:30:12:3012 [32minfo[39m: [32m[8e56bf5f-2ff1-4bd6-ad58-9484b4d1e717] Cache hit for tone adjustment[39m
+2025-05-05 14:30:18:3018 [32minfo[39m: [32m[62bc5e7c-1b3b-4516-86e8-40ff010d281d] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:30:18:3018 [32minfo[39m: [32m[62bc5e7c-1b3b-4516-86e8-40ff010d281d] Cache hit for tone adjustment[39m
+2025-05-05 14:30:19:3019 [32minfo[39m: [32m[c7e5f0ad-e2df-4cb9-929d-24b7a27f9501] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:30:19:3019 [32minfo[39m: [32m[c7e5f0ad-e2df-4cb9-929d-24b7a27f9501] Cache hit for tone adjustment[39m
+2025-05-05 14:30:21:3021 [32minfo[39m: [32m[24b1dc7b-09d4-4a58-8951-e7c87b36f708] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:30:21:3021 [32minfo[39m: [32m[24b1dc7b-09d4-4a58-8951-e7c87b36f708] Cache hit for tone adjustment[39m
+2025-05-05 14:30:22:3022 [32minfo[39m: [32m[d88f8bf1-0442-4a47-b231-385df6e36be7] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:30:22:3022 [32minfo[39m: [32m[d88f8bf1-0442-4a47-b231-385df6e36be7] Cache hit for tone adjustment[39m
+2025-05-05 14:30:23:3023 [32minfo[39m: [32m[03f054a8-ba48-4559-a0c6-fd9bc8c9d1a3] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:30:23:3023 [32minfo[39m: [32m[03f054a8-ba48-4559-a0c6-fd9bc8c9d1a3] Cache hit for tone adjustment[39m
+2025-05-05 14:30:27:3027 [32minfo[39m: [32m[b8470fa0-5ac2-4b0f-95fa-45efc3f53f57] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:30:27:3027 [32minfo[39m: [32m[b8470fa0-5ac2-4b0f-95fa-45efc3f53f57] Cache hit for tone adjustment[39m
+2025-05-05 14:30:28:3028 [32minfo[39m: [32m[45638cb8-3520-46ec-a675-415ce03e4b34] Tone adjustment request received: 58 chars, tone: 99[39m
+2025-05-05 14:30:28:3028 [32minfo[39m: [32m[45638cb8-3520-46ec-a675-415ce03e4b34] Cache hit for tone adjustment[39m
+2025-05-05 14:30:29:3029 [32minfo[39m: [32m[4eac4760-11a9-46d2-8a0f-8ce3321fd0fe] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:30:29:3029 [32minfo[39m: [32m[4eac4760-11a9-46d2-8a0f-8ce3321fd0fe] Cache hit for tone adjustment[39m
+2025-05-05 14:30:31:3031 [32minfo[39m: [32m[f74fab0c-a763-41a6-be62-79e2c863999d] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:30:31:3031 [32minfo[39m: [32m[f74fab0c-a763-41a6-be62-79e2c863999d] Cache hit for tone adjustment[39m
+2025-05-05 14:30:34:3034 [32minfo[39m: [32m[16f798d5-3427-46ce-9756-bb8b46eb8e7f] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:30:34:3034 [32minfo[39m: [32m[16f798d5-3427-46ce-9756-bb8b46eb8e7f] Cache hit for tone adjustment[39m
+2025-05-05 14:30:35:3035 [32minfo[39m: [32m[32c0da80-bc81-4136-a232-cbfaeb586158] Tone adjustment request received: 306 chars, tone: 99[39m
+2025-05-05 14:30:35:3035 [32minfo[39m: [32m[32c0da80-bc81-4136-a232-cbfaeb586158] Cache hit for tone adjustment[39m
+2025-05-05 14:30:36:3036 [32minfo[39m: [32m[c487d765-3074-423d-9003-8abfe64faea2] Tone adjustment request received: 306 chars, tone: 99[39m
+2025-05-05 14:30:36:3036 [32minfo[39m: [32m[c487d765-3074-423d-9003-8abfe64faea2] Cache hit for tone adjustment[39m
+2025-05-05 14:30:37:3037 [32minfo[39m: [32m[4a02f726-8a5a-4e53-9c01-02023d300ff5] Tone adjustment request received: 306 chars, tone: 99[39m
+2025-05-05 14:30:37:3037 [32minfo[39m: [32m[4a02f726-8a5a-4e53-9c01-02023d300ff5] Cache hit for tone adjustment[39m
+2025-05-05 14:30:40:3040 [32minfo[39m: [32m[fb524a46-a2a3-4500-a726-e82ec235b62d] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:30:40:3040 [32minfo[39m: [32m[fb524a46-a2a3-4500-a726-e82ec235b62d] Cache hit for tone adjustment[39m
+2025-05-05 14:30:42:3042 [32minfo[39m: [32m[66be4b22-56b9-4ce2-b997-75a39d698111] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:30:42:3042 [32minfo[39m: [32m[66be4b22-56b9-4ce2-b997-75a39d698111] Cache hit for tone adjustment[39m
+2025-05-05 14:38:35:3835 [32minfo[39m: [32m[2241e331-51d9-4f6d-a470-c9c1a78e7d3b] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:38:35:3835 [32minfo[39m: [32m[2241e331-51d9-4f6d-a470-c9c1a78e7d3b] Cache hit for tone adjustment[39m
+2025-05-05 14:38:39:3839 [32minfo[39m: [32m[c8b7bc81-b1e1-4dca-a487-e7115ebd7394] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:38:39:3839 [32minfo[39m: [32m[c8b7bc81-b1e1-4dca-a487-e7115ebd7394] Cache hit for tone adjustment[39m
+2025-05-05 14:38:48:3848 [32minfo[39m: [32m[c573138e-9a10-4314-bbea-4cbede610d3f] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:38:48:3848 [32minfo[39m: [32m[c573138e-9a10-4314-bbea-4cbede610d3f] Cache hit for tone adjustment[39m
+2025-05-05 14:38:50:3850 [32minfo[39m: [32m[ff528fed-827f-4309-81ab-743bd94ab87d] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:38:50:3850 [32minfo[39m: [32m[ff528fed-827f-4309-81ab-743bd94ab87d] Cache hit for tone adjustment[39m
+2025-05-05 14:38:56:3856 [32minfo[39m: [32m[ab40852c-c66a-4cec-88de-7552144e9726] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:38:59:3859 [32minfo[39m: [32m[ab40852c-c66a-4cec-88de-7552144e9726] Tone adjustment successful[39m
+2025-05-05 14:39:00:390 [32minfo[39m: [32m[26ceb382-a0fa-41f9-9fb7-54ad396fa88b] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:39:00:390 [32minfo[39m: [32m[26ceb382-a0fa-41f9-9fb7-54ad396fa88b] Cache hit for tone adjustment[39m
+2025-05-05 14:39:04:394 [32minfo[39m: [32m[fd50a344-151f-4a7f-b956-410009c0fe00] Tone adjustment request received: 306 chars, tone: 98[39m
+2025-05-05 14:39:05:395 [32minfo[39m: [32m[fd50a344-151f-4a7f-b956-410009c0fe00] Tone adjustment successful[39m
+2025-05-05 14:39:06:396 [32minfo[39m: [32m[9731dc98-b44d-49c2-9292-8a758a9e104a] Tone adjustment request received: 306 chars, tone: 98[39m
+2025-05-05 14:39:06:396 [32minfo[39m: [32m[9731dc98-b44d-49c2-9292-8a758a9e104a] Cache hit for tone adjustment[39m
+2025-05-05 14:39:07:397 [32minfo[39m: [32m[698e9f31-d0f4-462f-a462-77157d80b24f] Tone adjustment request received: 306 chars, tone: 98[39m
+2025-05-05 14:39:07:397 [32minfo[39m: [32m[698e9f31-d0f4-462f-a462-77157d80b24f] Cache hit for tone adjustment[39m
+2025-05-05 14:39:08:398 [32minfo[39m: [32m[360ae612-3e8d-4572-840b-ca2c3265f76b] Tone adjustment request received: 58 chars, tone: 75[39m
+2025-05-05 14:39:09:399 [32minfo[39m: [32m[360ae612-3e8d-4572-840b-ca2c3265f76b] Tone adjustment successful[39m
+2025-05-05 14:39:09:399 [32minfo[39m: [32m[7aacb8e8-2d05-4558-b371-93ce79a87d55] Tone adjustment request received: 58 chars, tone: 75[39m
+2025-05-05 14:39:09:399 [32minfo[39m: [32m[7aacb8e8-2d05-4558-b371-93ce79a87d55] Cache hit for tone adjustment[39m
+2025-05-05 14:39:10:3910 [32minfo[39m: [32m[e30da85e-934c-4ec4-aa25-af503dcc2fc8] Tone adjustment request received: 58 chars, tone: 75[39m
+2025-05-05 14:39:10:3910 [32minfo[39m: [32m[e30da85e-934c-4ec4-aa25-af503dcc2fc8] Cache hit for tone adjustment[39m
+2025-05-05 14:39:11:3911 [32minfo[39m: [32m[c0503c77-1217-4244-900d-7bb3b7555504] Tone adjustment request received: 58 chars, tone: 75[39m
+2025-05-05 14:39:11:3911 [32minfo[39m: [32m[c0503c77-1217-4244-900d-7bb3b7555504] Cache hit for tone adjustment[39m
+2025-05-05 14:39:11:3911 [32minfo[39m: [32m[c0fd8f9d-4087-467a-8d6b-27623c0fb895] Tone adjustment request received: 58 chars, tone: 76[39m
+2025-05-05 14:39:12:3912 [32minfo[39m: [32m[c0fd8f9d-4087-467a-8d6b-27623c0fb895] Tone adjustment successful[39m
+2025-05-05 14:39:13:3913 [32minfo[39m: [32m[7b8a322d-cb5c-40c7-a060-49bcf0556c2c] Tone adjustment request received: 58 chars, tone: 76[39m
+2025-05-05 14:39:13:3913 [32minfo[39m: [32m[7b8a322d-cb5c-40c7-a060-49bcf0556c2c] Cache hit for tone adjustment[39m
+2025-05-05 14:39:13:3913 [32minfo[39m: [32m[d2cd7a41-3a0a-40f8-ae12-cfce3f60be3e] Tone adjustment request received: 58 chars, tone: 77[39m
+2025-05-05 14:39:15:3915 [32minfo[39m: [32m[d2cd7a41-3a0a-40f8-ae12-cfce3f60be3e] Tone adjustment successful[39m
+2025-05-05 14:39:15:3915 [32minfo[39m: [32m[2d359a18-2a97-466d-a4b0-93a943d57745] Tone adjustment request received: 58 chars, tone: 77[39m
+2025-05-05 14:39:15:3915 [32minfo[39m: [32m[2d359a18-2a97-466d-a4b0-93a943d57745] Cache hit for tone adjustment[39m
+2025-05-05 14:39:16:3916 [32minfo[39m: [32m[63c7272f-3753-44dc-8758-32d0a560cdd5] Tone adjustment request received: 58 chars, tone: 78[39m
+2025-05-05 14:39:17:3917 [32minfo[39m: [32m[63c7272f-3753-44dc-8758-32d0a560cdd5] Tone adjustment successful[39m
+2025-05-05 14:39:18:3918 [32minfo[39m: [32m[57ed142b-b87d-4675-b092-136e55841430] Tone adjustment request received: 58 chars, tone: 78[39m
+2025-05-05 14:39:18:3918 [32minfo[39m: [32m[57ed142b-b87d-4675-b092-136e55841430] Cache hit for tone adjustment[39m
+2025-05-05 14:39:19:3919 [32minfo[39m: [32m[910f75a3-2480-49d5-8893-d3d8ebe6f049] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:39:19:3919 [32minfo[39m: [32m[910f75a3-2480-49d5-8893-d3d8ebe6f049] Cache hit for tone adjustment[39m
+2025-05-05 14:39:20:3920 [32minfo[39m: [32m[f893685e-f090-4866-9896-88fd334173c7] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:39:20:3920 [32minfo[39m: [32m[f893685e-f090-4866-9896-88fd334173c7] Cache hit for tone adjustment[39m
+2025-05-05 14:39:22:3922 [32minfo[39m: [32m[b790d090-075c-47ea-a479-c7528486d494] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:39:22:3922 [32minfo[39m: [32m[b790d090-075c-47ea-a479-c7528486d494] Cache hit for tone adjustment[39m
+2025-05-05 14:39:23:3923 [32minfo[39m: [32m[832e5493-8cf2-4bb1-aae0-c33abbbe6501] Tone adjustment request received: 306 chars, tone: 78[39m
+2025-05-05 14:39:26:3926 [32minfo[39m: [32m[832e5493-8cf2-4bb1-aae0-c33abbbe6501] Tone adjustment successful[39m
+2025-05-05 14:39:27:3927 [32minfo[39m: [32m[6bfa55a7-e172-42e0-82d1-c26fda30e59b] Tone adjustment request received: 306 chars, tone: 78[39m
+2025-05-05 14:39:27:3927 [32minfo[39m: [32m[6bfa55a7-e172-42e0-82d1-c26fda30e59b] Cache hit for tone adjustment[39m
+2025-05-05 14:42:12:4212 [32minfo[39m: [32m[3d8fb624-46cf-4b6a-addd-3883fc5e7330] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:42:14:4214 [32minfo[39m: [32m[83c4dac0-5795-4c32-97f4-f5c6fafa9a43] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:42:14:4214 [32minfo[39m: [32m[3d8fb624-46cf-4b6a-addd-3883fc5e7330] Tone adjustment successful[39m
+2025-05-05 14:42:14:4214 [32minfo[39m: [32m[83c4dac0-5795-4c32-97f4-f5c6fafa9a43] Tone adjustment successful[39m
+2025-05-05 14:42:15:4215 [32minfo[39m: [32m[354f0e4f-8ee5-41fa-91b3-57c0b6d70f22] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:42:15:4215 [32minfo[39m: [32m[354f0e4f-8ee5-41fa-91b3-57c0b6d70f22] Cache hit for tone adjustment[39m
+2025-05-05 14:43:57:4357 [32minfo[39m: [32m[0536b189-d889-4b1b-9c19-f2080f4320c3] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:43:57:4357 [32minfo[39m: [32m[0536b189-d889-4b1b-9c19-f2080f4320c3] Cache hit for tone adjustment[39m
+2025-05-05 14:44:20:4420 [32minfo[39m: [32m[edf6b457-00d6-4da1-90e1-e753850a5538] Tone adjustment request received: 9 chars, tone: 50[39m
+2025-05-05 14:44:20:4420 [32minfo[39m: [32m[edf6b457-00d6-4da1-90e1-e753850a5538] Cache hit for tone adjustment[39m
+2025-05-05 14:44:21:4421 [32minfo[39m: [32m[8120503f-3e66-4980-b38e-c5c5a63fe5e0] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:44:21:4421 [32minfo[39m: [32m[8120503f-3e66-4980-b38e-c5c5a63fe5e0] Cache hit for tone adjustment[39m
+2025-05-05 14:44:22:4422 [32minfo[39m: [32m[d7a1e3af-c425-4979-a993-032cd8ea292e] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:44:22:4422 [32minfo[39m: [32m[d7a1e3af-c425-4979-a993-032cd8ea292e] Cache hit for tone adjustment[39m
+2025-05-05 14:44:23:4423 [32minfo[39m: [32m[bfaa7329-c0f0-443b-aa3b-8107fec7723c] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:44:23:4423 [32minfo[39m: [32m[bfaa7329-c0f0-443b-aa3b-8107fec7723c] Cache hit for tone adjustment[39m
+2025-05-05 14:44:37:4437 [32minfo[39m: [32m[e79be0de-99f7-49a8-a227-2f1fe64892ac] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:44:37:4437 [32minfo[39m: [32m[e79be0de-99f7-49a8-a227-2f1fe64892ac] Cache hit for tone adjustment[39m
+2025-05-05 14:44:38:4438 [32minfo[39m: [32m[452d14f5-c27b-4966-a43f-f947c2d029ee] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:44:38:4438 [32minfo[39m: [32m[452d14f5-c27b-4966-a43f-f947c2d029ee] Cache hit for tone adjustment[39m
+2025-05-05 14:44:44:4444 [32minfo[39m: [32m[d62b6047-3f64-4f9e-8d90-03adbdba27b7] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 14:44:47:4447 [32minfo[39m: [32m[d62b6047-3f64-4f9e-8d90-03adbdba27b7] Tone adjustment successful[39m
+2025-05-05 14:44:48:4448 [32minfo[39m: [32m[d47f2974-4e9b-420d-a366-da07e3fec830] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 14:44:48:4448 [32minfo[39m: [32m[d47f2974-4e9b-420d-a366-da07e3fec830] Cache hit for tone adjustment[39m
+2025-05-05 14:44:58:4458 [32minfo[39m: [32m[11f8ebe8-dc66-4c81-a1da-a0ee1e17c48e] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:44:58:4458 [32minfo[39m: [32m[11f8ebe8-dc66-4c81-a1da-a0ee1e17c48e] Cache hit for tone adjustment[39m
+2025-05-05 14:44:59:4459 [32minfo[39m: [32m[8d9354bf-145a-4352-b08f-1cd62afec55e] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:44:59:4459 [32minfo[39m: [32m[8d9354bf-145a-4352-b08f-1cd62afec55e] Cache hit for tone adjustment[39m
+2025-05-05 14:45:06:456 [32minfo[39m: [32m[6537df92-2764-4179-b882-eac50a2b6e78] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:45:06:456 [32minfo[39m: [32m[6537df92-2764-4179-b882-eac50a2b6e78] Cache hit for tone adjustment[39m
+2025-05-05 14:45:07:457 [32minfo[39m: [32m[06f8f72c-f3e3-4eb7-87fa-004b419af3f4] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:45:08:458 [32minfo[39m: [32m[06f8f72c-f3e3-4eb7-87fa-004b419af3f4] Tone adjustment successful[39m
+2025-05-05 14:45:08:458 [32minfo[39m: [32m[a5defa6f-7251-4114-82e8-1d63867efe9b] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:45:08:458 [32minfo[39m: [32m[a5defa6f-7251-4114-82e8-1d63867efe9b] Cache hit for tone adjustment[39m
+2025-05-05 14:45:11:4511 [32minfo[39m: [32m[ab68f979-f5a6-42b0-99f6-1301f3a6aa00] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:45:11:4511 [32minfo[39m: [32m[ab68f979-f5a6-42b0-99f6-1301f3a6aa00] Cache hit for tone adjustment[39m
+2025-05-05 14:45:12:4512 [32minfo[39m: [32m[0c27083d-2f7e-4a35-81d4-499dcb24328f] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:45:12:4512 [32minfo[39m: [32m[0c27083d-2f7e-4a35-81d4-499dcb24328f] Cache hit for tone adjustment[39m
+2025-05-05 14:45:13:4513 [32minfo[39m: [32m[1c59d9d6-06c8-4a96-a608-4835a298e661] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:45:13:4513 [32minfo[39m: [32m[1c59d9d6-06c8-4a96-a608-4835a298e661] Cache hit for tone adjustment[39m
+2025-05-05 14:45:19:4519 [32minfo[39m: [32m[9da299bc-01ca-46bb-97fc-90ec76fd2a0a] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:45:19:4519 [32minfo[39m: [32m[9da299bc-01ca-46bb-97fc-90ec76fd2a0a] Cache hit for tone adjustment[39m
+2025-05-05 14:45:20:4520 [32minfo[39m: [32m[f8305d43-3ae0-4f38-a151-4d7d30bb1f50] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 14:45:20:4520 [32minfo[39m: [32m[f8305d43-3ae0-4f38-a151-4d7d30bb1f50] Cache hit for tone adjustment[39m
+2025-05-05 14:45:21:4521 [32minfo[39m: [32m[08d52afa-4116-4dd6-ae8a-12b1704bb9df] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 14:45:21:4521 [32minfo[39m: [32m[08d52afa-4116-4dd6-ae8a-12b1704bb9df] Cache hit for tone adjustment[39m
+2025-05-05 14:45:22:4522 [32minfo[39m: [32m[700dff54-d000-471c-9632-2993acf49c16] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 14:45:22:4522 [32minfo[39m: [32m[700dff54-d000-471c-9632-2993acf49c16] Cache hit for tone adjustment[39m
+2025-05-05 14:45:23:4523 [32minfo[39m: [32m[30a49feb-75e9-41e5-98b8-5130c8665af0] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:45:23:4523 [32minfo[39m: [32m[30a49feb-75e9-41e5-98b8-5130c8665af0] Cache hit for tone adjustment[39m
+2025-05-05 14:45:25:4525 [32minfo[39m: [32m[ee25d1b8-1b93-4ca1-883f-36c01a9abfc8] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:45:25:4525 [32minfo[39m: [32m[ee25d1b8-1b93-4ca1-883f-36c01a9abfc8] Cache hit for tone adjustment[39m
+2025-05-05 14:45:27:4527 [32minfo[39m: [32m[e4d91fe1-3280-41e0-8bd1-f2469cd060c6] Tone adjustment request received: 306 chars, tone: 75[39m
+2025-05-05 14:45:27:4527 [32minfo[39m: [32m[e4d91fe1-3280-41e0-8bd1-f2469cd060c6] Cache hit for tone adjustment[39m
+2025-05-05 14:45:28:4528 [32minfo[39m: [32m[acb92ced-4c51-457d-bf42-3fea0422998f] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:45:28:4528 [32minfo[39m: [32m[acb92ced-4c51-457d-bf42-3fea0422998f] Cache hit for tone adjustment[39m
+2025-05-05 14:45:29:4529 [32minfo[39m: [32m[a8da6936-7fa9-4741-9ff4-929220c6e662] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:45:29:4529 [32minfo[39m: [32m[a8da6936-7fa9-4741-9ff4-929220c6e662] Cache hit for tone adjustment[39m
+2025-05-05 14:48:04:484 [32minfo[39m: [32m[afc6374a-e88e-4b4c-8555-8a67c4285b07] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:48:04:484 [32minfo[39m: [32m[afc6374a-e88e-4b4c-8555-8a67c4285b07] Cache hit for tone adjustment[39m
+2025-05-05 14:48:07:487 [32minfo[39m: [32m[ab2556f3-e17e-42a7-863b-95ee3deaea12] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:48:07:487 [32minfo[39m: [32m[ab2556f3-e17e-42a7-863b-95ee3deaea12] Cache hit for tone adjustment[39m
+2025-05-05 14:48:13:4813 [32minfo[39m: [32m[917ab944-fc11-41e1-a6d8-9dddb313cf89] Tone adjustment request received: 58 chars, tone: 15[39m
+2025-05-05 14:48:13:4813 [32minfo[39m: [32m[917ab944-fc11-41e1-a6d8-9dddb313cf89] Cache hit for tone adjustment[39m
+2025-05-05 14:48:15:4815 [32minfo[39m: [32m[010f27bb-6e1e-4625-81ba-50bfeabdc549] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:48:16:4816 [32minfo[39m: [32m[010f27bb-6e1e-4625-81ba-50bfeabdc549] Tone adjustment successful[39m
+2025-05-05 14:48:17:4817 [32minfo[39m: [32m[0cb9e6a3-bfca-45b3-b38a-52b56c56f96c] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:48:17:4817 [32minfo[39m: [32m[0cb9e6a3-bfca-45b3-b38a-52b56c56f96c] Cache hit for tone adjustment[39m
+2025-05-05 14:48:25:4825 [32minfo[39m: [32m[76930a0b-4811-43ce-a144-5cdc346c86d4] Tone adjustment request received: 306 chars, tone: 47[39m
+2025-05-05 14:48:28:4828 [32minfo[39m: [32m[76930a0b-4811-43ce-a144-5cdc346c86d4] Tone adjustment successful[39m
+2025-05-05 14:48:28:4828 [32minfo[39m: [32m[2749b96a-cdbb-483c-9ec1-1812ffcd5bd5] Tone adjustment request received: 306 chars, tone: 47[39m
+2025-05-05 14:48:28:4828 [32minfo[39m: [32m[2749b96a-cdbb-483c-9ec1-1812ffcd5bd5] Cache hit for tone adjustment[39m
+2025-05-05 14:48:33:4833 [32minfo[39m: [32m[3edc049f-32d1-4110-b5d2-bcc62ee2a048] Tone adjustment request received: 306 chars, tone: 89[39m
+2025-05-05 14:48:34:4834 [32minfo[39m: [32m[3edc049f-32d1-4110-b5d2-bcc62ee2a048] Tone adjustment successful[39m
+2025-05-05 14:48:35:4835 [32minfo[39m: [32m[7227ac4a-4fa4-4819-8353-981150e23495] Tone adjustment request received: 306 chars, tone: 89[39m
+2025-05-05 14:48:35:4835 [32minfo[39m: [32m[7227ac4a-4fa4-4819-8353-981150e23495] Cache hit for tone adjustment[39m
+2025-05-05 14:48:37:4837 [32minfo[39m: [32m[488b1aef-2f70-4c04-9369-3851e261b5c4] Tone adjustment request received: 306 chars, tone: 11[39m
+2025-05-05 14:48:40:4840 [32minfo[39m: [32m[488b1aef-2f70-4c04-9369-3851e261b5c4] Tone adjustment successful[39m
+2025-05-05 14:48:40:4840 [32minfo[39m: [32m[7cf405ed-7779-42e3-936b-98a7123c7dc8] Tone adjustment request received: 306 chars, tone: 11[39m
+2025-05-05 14:48:40:4840 [32minfo[39m: [32m[7cf405ed-7779-42e3-936b-98a7123c7dc8] Cache hit for tone adjustment[39m
+2025-05-05 14:48:41:4841 [32minfo[39m: [32m[c28bb844-0f56-4973-8438-0da9f7ba10bf] Tone adjustment request received: 306 chars, tone: 11[39m
+2025-05-05 14:48:41:4841 [32minfo[39m: [32m[c28bb844-0f56-4973-8438-0da9f7ba10bf] Cache hit for tone adjustment[39m
+2025-05-05 14:48:42:4842 [32minfo[39m: [32m[f78d3577-a81d-4bcd-9e11-1e329b8a16c5] Tone adjustment request received: 58 chars, tone: 89[39m
+2025-05-05 14:48:43:4843 [32minfo[39m: [32m[f78d3577-a81d-4bcd-9e11-1e329b8a16c5] Tone adjustment successful[39m
+2025-05-05 14:48:44:4844 [32minfo[39m: [32m[0fbd550e-6a08-45f0-84c8-24566127cc33] Tone adjustment request received: 58 chars, tone: 89[39m
+2025-05-05 14:48:44:4844 [32minfo[39m: [32m[0fbd550e-6a08-45f0-84c8-24566127cc33] Cache hit for tone adjustment[39m
+2025-05-05 14:48:46:4846 [32minfo[39m: [32m[31876833-cec6-4b35-b9cd-4c1f3cce4c92] Tone adjustment request received: 58 chars, tone: 89[39m
+2025-05-05 14:48:46:4846 [32minfo[39m: [32m[31876833-cec6-4b35-b9cd-4c1f3cce4c92] Cache hit for tone adjustment[39m
+2025-05-05 14:48:47:4847 [32minfo[39m: [32m[f196481f-52a9-4742-bb6f-3dd378ba8daa] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:48:47:4847 [32minfo[39m: [32m[f196481f-52a9-4742-bb6f-3dd378ba8daa] Cache hit for tone adjustment[39m
+2025-05-05 14:48:48:4848 [32minfo[39m: [32m[a5ee4bba-6a7f-4780-af76-25836291dd9b] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:48:48:4848 [32minfo[39m: [32m[a5ee4bba-6a7f-4780-af76-25836291dd9b] Cache hit for tone adjustment[39m
+2025-05-05 14:48:48:4848 [32minfo[39m: [32m[47cedcab-0d52-4722-b342-a38a7a53f583] Tone adjustment request received: 306 chars, tone: 89[39m
+2025-05-05 14:48:48:4848 [32minfo[39m: [32m[47cedcab-0d52-4722-b342-a38a7a53f583] Cache hit for tone adjustment[39m
+2025-05-05 14:48:50:4850 [32minfo[39m: [32m[42667b83-26d1-4562-b5e5-2da008be9c1f] Tone adjustment request received: 306 chars, tone: 89[39m
+2025-05-05 14:48:50:4850 [32minfo[39m: [32m[42667b83-26d1-4562-b5e5-2da008be9c1f] Cache hit for tone adjustment[39m
+2025-05-05 14:48:51:4851 [32minfo[39m: [32m[ce3d6eda-b647-4eb7-96c3-59fa8997ec44] Tone adjustment request received: 306 chars, tone: 89[39m
+2025-05-05 14:48:51:4851 [32minfo[39m: [32m[ce3d6eda-b647-4eb7-96c3-59fa8997ec44] Cache hit for tone adjustment[39m
+2025-05-05 14:48:52:4852 [32minfo[39m: [32m[c40672cf-8a7a-4d73-8dc6-9b7fd581e967] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:48:52:4852 [32minfo[39m: [32m[c40672cf-8a7a-4d73-8dc6-9b7fd581e967] Cache hit for tone adjustment[39m
+2025-05-05 14:48:53:4853 [32minfo[39m: [32m[b1c8f1be-d684-4325-9533-37285a3ff0a6] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:48:53:4853 [32minfo[39m: [32m[b1c8f1be-d684-4325-9533-37285a3ff0a6] Cache hit for tone adjustment[39m
+2025-05-05 14:50:22:5022 [32minfo[39m: [32m[92eaebbc-ee02-406d-b7e2-8b40e09fdd25] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:50:22:5022 [32minfo[39m: [32m[92eaebbc-ee02-406d-b7e2-8b40e09fdd25] Cache hit for tone adjustment[39m
+2025-05-05 14:50:24:5024 [32minfo[39m: [32m[e17b156b-ee57-44ec-aae8-262bb6705462] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:50:24:5024 [32minfo[39m: [32m[e17b156b-ee57-44ec-aae8-262bb6705462] Cache hit for tone adjustment[39m
+2025-05-05 14:50:27:5027 [32minfo[39m: [32m[30abe99f-5fd9-4bbf-bbff-183ef9363151] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:50:27:5027 [32minfo[39m: [32m[30abe99f-5fd9-4bbf-bbff-183ef9363151] Cache hit for tone adjustment[39m
+2025-05-05 14:50:36:5036 [32minfo[39m: [32m[08a0322a-460b-4f20-9216-6ed27ad9a3e2] Tone adjustment request received: 306 chars, tone: 47[39m
+2025-05-05 14:50:36:5036 [32minfo[39m: [32m[08a0322a-460b-4f20-9216-6ed27ad9a3e2] Cache hit for tone adjustment[39m
+2025-05-05 14:50:37:5037 [32minfo[39m: [32m[04685e96-370c-4cf9-bf85-7352c97ab3bc] Tone adjustment request received: 306 chars, tone: 47[39m
+2025-05-05 14:50:37:5037 [32minfo[39m: [32m[04685e96-370c-4cf9-bf85-7352c97ab3bc] Cache hit for tone adjustment[39m
+2025-05-05 14:50:39:5039 [32minfo[39m: [32m[3ad5563b-7188-49c7-b92d-77f75dad461c] Tone adjustment request received: 306 chars, tone: 86[39m
+2025-05-05 14:50:41:5041 [32minfo[39m: [32m[3ad5563b-7188-49c7-b92d-77f75dad461c] Tone adjustment successful[39m
+2025-05-05 14:50:42:5042 [32minfo[39m: [32m[2851f1bb-a45b-4512-8728-63e1cd5400a4] Tone adjustment request received: 306 chars, tone: 70[39m
+2025-05-05 14:50:45:5045 [32minfo[39m: [32m[2851f1bb-a45b-4512-8728-63e1cd5400a4] Tone adjustment successful[39m
+2025-05-05 14:50:46:5046 [32minfo[39m: [32m[938d42a9-966d-4748-b7bd-c4e47a6687ce] Tone adjustment request received: 306 chars, tone: 70[39m
+2025-05-05 14:50:46:5046 [32minfo[39m: [32m[938d42a9-966d-4748-b7bd-c4e47a6687ce] Cache hit for tone adjustment[39m
+2025-05-05 14:50:48:5048 [32minfo[39m: [32m[b49496f2-8a1e-4767-81b5-79b4f1884d9c] Tone adjustment request received: 306 chars, tone: 70[39m
+2025-05-05 14:50:48:5048 [32minfo[39m: [32m[b49496f2-8a1e-4767-81b5-79b4f1884d9c] Cache hit for tone adjustment[39m
+2025-05-05 14:50:49:5049 [32minfo[39m: [32m[e6488d7a-be77-4962-b5fe-7a84570a4b48] Tone adjustment request received: 58 chars, tone: 86[39m
+2025-05-05 14:50:50:5050 [32minfo[39m: [32m[e6488d7a-be77-4962-b5fe-7a84570a4b48] Tone adjustment successful[39m
+2025-05-05 14:50:51:5051 [32minfo[39m: [32m[599095e7-1c0a-4391-9d43-7dac51dd4de1] Tone adjustment request received: 58 chars, tone: 86[39m
+2025-05-05 14:50:51:5051 [32minfo[39m: [32m[599095e7-1c0a-4391-9d43-7dac51dd4de1] Cache hit for tone adjustment[39m
+2025-05-05 14:50:54:5054 [32minfo[39m: [32m[2e31af87-8835-4c57-b868-2e9310c804e9] Tone adjustment request received: 58 chars, tone: 86[39m
+2025-05-05 14:50:54:5054 [32minfo[39m: [32m[2e31af87-8835-4c57-b868-2e9310c804e9] Cache hit for tone adjustment[39m
+2025-05-05 14:50:55:5055 [32minfo[39m: [32m[d428b59e-b050-4d8b-8b1c-d557b8e50e0c] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:50:55:5055 [32minfo[39m: [32m[d428b59e-b050-4d8b-8b1c-d557b8e50e0c] Cache hit for tone adjustment[39m
+2025-05-05 14:50:56:5056 [32minfo[39m: [32m[9d6b0f65-7bff-4bf1-9ac1-64b2e3c5f987] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:50:56:5056 [32minfo[39m: [32m[9d6b0f65-7bff-4bf1-9ac1-64b2e3c5f987] Cache hit for tone adjustment[39m
+2025-05-05 14:54:40:5440 [32minfo[39m: [32m[aa14444a-7de1-4799-9a3e-337a8cb5c815] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:54:40:5440 [32minfo[39m: [32m[aa14444a-7de1-4799-9a3e-337a8cb5c815] Cache hit for tone adjustment[39m
+2025-05-05 14:54:42:5442 [32minfo[39m: [32m[95ce5556-ef1d-4242-9757-e58853b072ef] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:54:42:5442 [32minfo[39m: [32m[95ce5556-ef1d-4242-9757-e58853b072ef] Cache hit for tone adjustment[39m
+2025-05-05 14:56:43:5643 [32minfo[39m: [32m[7f285f38-0f35-4a41-94bd-1da32fd0f357] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:56:43:5643 [32minfo[39m: [32m[7f285f38-0f35-4a41-94bd-1da32fd0f357] Cache hit for tone adjustment[39m
+2025-05-05 14:56:46:5646 [32minfo[39m: [32m[bbec3b3e-6faa-438b-95c4-cb47a47be49a] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:56:46:5646 [32minfo[39m: [32m[bbec3b3e-6faa-438b-95c4-cb47a47be49a] Cache hit for tone adjustment[39m
+2025-05-05 14:56:59:5659 [32minfo[39m: [32m[aea196a2-4157-46e9-a72f-7185ec67e4ef] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:56:59:5659 [32minfo[39m: [32m[aea196a2-4157-46e9-a72f-7185ec67e4ef] Cache hit for tone adjustment[39m
+2025-05-05 14:57:02:572 [32minfo[39m: [32m[058abfdb-d3ad-4726-8049-c85a6837825b] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:57:02:572 [32minfo[39m: [32m[058abfdb-d3ad-4726-8049-c85a6837825b] Cache hit for tone adjustment[39m
+2025-05-05 14:57:07:577 [32minfo[39m: [32m[f940277a-27d3-483b-8eff-61d49c76331d] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:57:07:577 [32minfo[39m: [32m[f940277a-27d3-483b-8eff-61d49c76331d] Cache hit for tone adjustment[39m
+2025-05-05 14:57:14:5714 [32minfo[39m: [32m[68e91865-37e0-4413-afb3-70801306009e] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:57:14:5714 [32minfo[39m: [32m[68e91865-37e0-4413-afb3-70801306009e] Cache hit for tone adjustment[39m
+2025-05-05 14:57:15:5715 [32minfo[39m: [32m[d93894dd-1cac-42e1-b3e6-3230691045a5] Tone adjustment request received: 58 chars, tone: 47[39m
+2025-05-05 14:57:15:5715 [32minfo[39m: [32m[d93894dd-1cac-42e1-b3e6-3230691045a5] Cache hit for tone adjustment[39m
+2025-05-05 14:57:20:5720 [32minfo[39m: [32m[8c044a55-789e-4bfb-85da-977302cac5cd] Tone adjustment request received: 58 chars, tone: 61[39m
+2025-05-05 14:57:21:5721 [32minfo[39m: [32m[8c044a55-789e-4bfb-85da-977302cac5cd] Tone adjustment successful[39m
+2025-05-05 14:57:22:5722 [32minfo[39m: [32m[a1050950-d7c2-4e98-883b-743d4882aa3d] Tone adjustment request received: 58 chars, tone: 61[39m
+2025-05-05 14:57:22:5722 [32minfo[39m: [32m[a1050950-d7c2-4e98-883b-743d4882aa3d] Cache hit for tone adjustment[39m
+2025-05-05 14:57:28:5728 [32minfo[39m: [32m[1f2a36cb-264e-4d40-933e-9d0ef5ef5d94] Tone adjustment request received: 58 chars, tone: 49[39m
+2025-05-05 14:57:29:5729 [32minfo[39m: [32m[1f2a36cb-264e-4d40-933e-9d0ef5ef5d94] Tone adjustment successful[39m
+2025-05-05 14:57:30:5730 [32minfo[39m: [32m[285dc27a-490b-465c-b9b7-a6361f2019d7] Tone adjustment request received: 58 chars, tone: 49[39m
+2025-05-05 14:57:30:5730 [32minfo[39m: [32m[285dc27a-490b-465c-b9b7-a6361f2019d7] Cache hit for tone adjustment[39m
+2025-05-05 14:58:26:5826 [32minfo[39m: [32m[0c38e34e-da9e-4f94-821f-8a9baac49f0a] Tone adjustment request received: 58 chars, tone: 49[39m
+2025-05-05 14:58:26:5826 [32minfo[39m: [32m[0c38e34e-da9e-4f94-821f-8a9baac49f0a] Cache hit for tone adjustment[39m
+2025-05-05 14:58:28:5828 [32minfo[39m: [32m[1ae8a6dd-c60a-4f90-9ca0-b4ea1d71403e] Tone adjustment request received: 58 chars, tone: 49[39m
+2025-05-05 14:58:28:5828 [32minfo[39m: [32m[1ae8a6dd-c60a-4f90-9ca0-b4ea1d71403e] Cache hit for tone adjustment[39m
+2025-05-05 14:58:31:5831 [32minfo[39m: [32m[8f2d8f4f-af62-418e-9207-6aa3485d1ca2] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:58:31:5831 [32minfo[39m: [32m[8f2d8f4f-af62-418e-9207-6aa3485d1ca2] Cache hit for tone adjustment[39m
+2025-05-05 14:58:33:5833 [32minfo[39m: [32m[a0a30b08-4d0a-473f-b336-b91bd60f6f8c] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:58:33:5833 [32minfo[39m: [32m[a0a30b08-4d0a-473f-b336-b91bd60f6f8c] Cache hit for tone adjustment[39m
+2025-05-05 14:58:34:5834 [32minfo[39m: [32m[7a591900-2964-4fb9-87b1-b94dacccb7fc] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:58:34:5834 [32minfo[39m: [32m[7a591900-2964-4fb9-87b1-b94dacccb7fc] Cache hit for tone adjustment[39m
+2025-05-05 14:58:39:5839 [32minfo[39m: [32m[18df6ef2-8afb-432e-ad6b-c47e2fd92e45] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:58:39:5839 [32minfo[39m: [32m[18df6ef2-8afb-432e-ad6b-c47e2fd92e45] Cache hit for tone adjustment[39m
+2025-05-05 14:58:40:5840 [32minfo[39m: [32m[d0dff430-18e7-4e7b-bf91-22a89e1c4c05] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:58:40:5840 [32minfo[39m: [32m[d0dff430-18e7-4e7b-bf91-22a89e1c4c05] Cache hit for tone adjustment[39m
+2025-05-05 14:58:48:5848 [32minfo[39m: [32m[a6c872b5-4657-4919-ad49-7954fca1858d] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:58:48:5848 [32minfo[39m: [32m[a6c872b5-4657-4919-ad49-7954fca1858d] Cache hit for tone adjustment[39m
+2025-05-05 14:58:49:5849 [32minfo[39m: [32m[03ef8fb3-6fe9-4d6c-87b6-c1f7def6daa2] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 14:58:49:5849 [32minfo[39m: [32m[03ef8fb3-6fe9-4d6c-87b6-c1f7def6daa2] Cache hit for tone adjustment[39m
+2025-05-05 14:58:51:5851 [32minfo[39m: [32m[042ee832-3a0a-4050-a341-58247d7a316b] Tone adjustment request received: 306 chars, tone: 73[39m
+2025-05-05 14:58:58:5858 [32minfo[39m: [32m[042ee832-3a0a-4050-a341-58247d7a316b] Tone adjustment successful[39m
+2025-05-05 14:58:59:5859 [32minfo[39m: [32m[8d828b6e-5609-46b8-84f7-c641a6d7cc27] Tone adjustment request received: 306 chars, tone: 73[39m
+2025-05-05 14:58:59:5859 [32minfo[39m: [32m[8d828b6e-5609-46b8-84f7-c641a6d7cc27] Cache hit for tone adjustment[39m
+2025-05-05 14:59:03:593 [32minfo[39m: [32m[b52ea16c-3119-4906-a56f-15d197cb415d] Tone adjustment request received: 306 chars, tone: 7[39m
+2025-05-05 14:59:05:595 [32minfo[39m: [32m[b52ea16c-3119-4906-a56f-15d197cb415d] Tone adjustment successful[39m
+2025-05-05 14:59:06:596 [32minfo[39m: [32m[19ab92d1-34ee-4360-be7f-ac80f8cbee75] Tone adjustment request received: 306 chars, tone: 7[39m
+2025-05-05 14:59:06:596 [32minfo[39m: [32m[19ab92d1-34ee-4360-be7f-ac80f8cbee75] Cache hit for tone adjustment[39m
+2025-05-05 14:59:08:598 [32minfo[39m: [32m[a502e68e-90b2-4379-99fd-9b926844f5de] Tone adjustment request received: 58 chars, tone: 73[39m
+2025-05-05 14:59:08:598 [32minfo[39m: [32m[a502e68e-90b2-4379-99fd-9b926844f5de] Tone adjustment successful[39m
+2025-05-05 14:59:09:599 [32minfo[39m: [32m[a320bbe5-d39b-46b3-b5f6-77b9a0a55467] Tone adjustment request received: 58 chars, tone: 73[39m
+2025-05-05 14:59:09:599 [32minfo[39m: [32m[a320bbe5-d39b-46b3-b5f6-77b9a0a55467] Cache hit for tone adjustment[39m
+2025-05-05 14:59:12:5912 [32minfo[39m: [32m[10bd47ca-28f8-4bfb-a180-c616e4ebf781] Tone adjustment request received: 306 chars, tone: 7[39m
+2025-05-05 14:59:12:5912 [32minfo[39m: [32m[10bd47ca-28f8-4bfb-a180-c616e4ebf781] Cache hit for tone adjustment[39m
+2025-05-05 14:59:13:5913 [32minfo[39m: [32m[0c48075c-3535-4e92-ae6a-cfc82dc0cdc5] Tone adjustment request received: 306 chars, tone: 7[39m
+2025-05-05 14:59:13:5913 [32minfo[39m: [32m[0c48075c-3535-4e92-ae6a-cfc82dc0cdc5] Cache hit for tone adjustment[39m
+2025-05-05 14:59:15:5915 [32minfo[39m: [32m[3ab90c25-e69c-4d42-be45-73c5e881b0f7] Tone adjustment request received: 58 chars, tone: 73[39m
+2025-05-05 14:59:15:5915 [32minfo[39m: [32m[3ab90c25-e69c-4d42-be45-73c5e881b0f7] Cache hit for tone adjustment[39m
+2025-05-05 14:59:17:5917 [32minfo[39m: [32m[2f094f4d-0a53-4069-ad17-f2959d60ec61] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:59:17:5917 [32minfo[39m: [32m[2f094f4d-0a53-4069-ad17-f2959d60ec61] Cache hit for tone adjustment[39m
+2025-05-05 14:59:19:5919 [32minfo[39m: [32m[382c7bd6-cf9c-4c59-983a-45fb8835fbcf] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 14:59:19:5919 [32minfo[39m: [32m[382c7bd6-cf9c-4c59-983a-45fb8835fbcf] Cache hit for tone adjustment[39m
+2025-05-05 15:00:22:022 [32minfo[39m: [32m[2c981e6a-3829-4782-8562-1ed8a49ddb00] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:00:23:023 [32minfo[39m: [32m[2c981e6a-3829-4782-8562-1ed8a49ddb00] Tone adjustment successful[39m
+2025-05-05 15:00:24:024 [32minfo[39m: [32m[ae63a769-37cf-432c-95dd-44be8d218550] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:00:24:024 [32minfo[39m: [32m[ae63a769-37cf-432c-95dd-44be8d218550] Cache hit for tone adjustment[39m
+2025-05-05 15:00:30:030 [32minfo[39m: [32m[0d3b1382-7998-4793-abda-56ee4457a27e] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:00:30:030 [32minfo[39m: [32m[0d3b1382-7998-4793-abda-56ee4457a27e] Cache hit for tone adjustment[39m
+2025-05-05 15:00:31:031 [32minfo[39m: [32m[b5792356-c2dc-4bc2-bad0-2d73f425f3bb] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:00:31:031 [32minfo[39m: [32m[b5792356-c2dc-4bc2-bad0-2d73f425f3bb] Cache hit for tone adjustment[39m
+2025-05-05 15:00:41:041 [32minfo[39m: [32m[d24014a3-a82c-4f98-b0af-c700eb2aa330] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 15:00:43:043 [32minfo[39m: [32m[d24014a3-a82c-4f98-b0af-c700eb2aa330] Tone adjustment successful[39m
+2025-05-05 15:00:44:044 [32minfo[39m: [32m[b19a5a26-6be3-40af-b821-f7d47e373efe] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 15:00:44:044 [32minfo[39m: [32m[b19a5a26-6be3-40af-b821-f7d47e373efe] Cache hit for tone adjustment[39m
+2025-05-05 15:00:46:046 [32minfo[39m: [32m[f13f5926-3371-452b-97fe-5f59059a5580] Tone adjustment request received: 306 chars, tone: 85[39m
+2025-05-05 15:00:47:047 [32minfo[39m: [32m[f13f5926-3371-452b-97fe-5f59059a5580] Tone adjustment successful[39m
+2025-05-05 15:00:48:048 [32minfo[39m: [32m[38720e5a-8e11-4ea0-bf18-4482ca6f65a1] Tone adjustment request received: 306 chars, tone: 85[39m
+2025-05-05 15:00:48:048 [32minfo[39m: [32m[38720e5a-8e11-4ea0-bf18-4482ca6f65a1] Cache hit for tone adjustment[39m
+2025-05-05 15:00:50:050 [32minfo[39m: [32m[00b78bda-6af5-4bf5-857b-c0e003ad1a66] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 15:00:50:050 [32minfo[39m: [32m[00b78bda-6af5-4bf5-857b-c0e003ad1a66] Cache hit for tone adjustment[39m
+2025-05-05 15:00:51:051 [32minfo[39m: [32m[605cb68e-ce13-4965-a7c6-747679745e94] Tone adjustment request received: 306 chars, tone: 15[39m
+2025-05-05 15:00:51:051 [32minfo[39m: [32m[605cb68e-ce13-4965-a7c6-747679745e94] Cache hit for tone adjustment[39m
+2025-05-05 15:00:54:054 [32minfo[39m: [32m[d671ac36-da75-48ef-9c9d-43617e93a236] Tone adjustment request received: 58 chars, tone: 85[39m
+2025-05-05 15:00:55:055 [32minfo[39m: [32m[d671ac36-da75-48ef-9c9d-43617e93a236] Tone adjustment successful[39m
+2025-05-05 15:00:56:056 [32minfo[39m: [32m[80850da4-7509-4e0c-bc5b-e0f17eae666f] Tone adjustment request received: 58 chars, tone: 85[39m
+2025-05-05 15:00:56:056 [32minfo[39m: [32m[80850da4-7509-4e0c-bc5b-e0f17eae666f] Cache hit for tone adjustment[39m
+2025-05-05 15:00:58:058 [32minfo[39m: [32m[0bdec2de-3a42-484d-96bc-d4c5621fc717] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:00:58:058 [32minfo[39m: [32m[0bdec2de-3a42-484d-96bc-d4c5621fc717] Cache hit for tone adjustment[39m
+2025-05-05 15:00:59:059 [32minfo[39m: [32m[566234c5-9075-4732-bdac-51a9bc5183fe] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:00:59:059 [32minfo[39m: [32m[566234c5-9075-4732-bdac-51a9bc5183fe] Cache hit for tone adjustment[39m
+2025-05-05 15:01:25:125 [32minfo[39m: [32m[179dd8b6-8fb5-4ed1-bc29-3863b8688c23] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:01:25:125 [32minfo[39m: [32m[179dd8b6-8fb5-4ed1-bc29-3863b8688c23] Cache hit for tone adjustment[39m
+2025-05-05 15:01:28:128 [32minfo[39m: [32m[16691968-95b9-44d7-82d9-fd7a2b6568c2] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:01:28:128 [32minfo[39m: [32m[16691968-95b9-44d7-82d9-fd7a2b6568c2] Cache hit for tone adjustment[39m
+2025-05-05 15:01:30:130 [32minfo[39m: [32m[1de1d570-3c35-4392-a185-66593ca802dd] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:01:30:130 [32minfo[39m: [32m[1de1d570-3c35-4392-a185-66593ca802dd] Cache hit for tone adjustment[39m
+2025-05-05 15:01:43:143 [32minfo[39m: [32m[ea7b23e7-16b4-4cfe-8495-ea5c0d6f7fb0] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 15:01:43:143 [32minfo[39m: [32m[ea7b23e7-16b4-4cfe-8495-ea5c0d6f7fb0] Cache hit for tone adjustment[39m
+2025-05-05 15:01:48:148 [32minfo[39m: [32m[de7c4ea5-e014-44a4-9df3-d019436cfaab] Tone adjustment request received: 306 chars, tone: 77[39m
+2025-05-05 15:01:51:151 [32minfo[39m: [32m[de7c4ea5-e014-44a4-9df3-d019436cfaab] Tone adjustment successful[39m
+2025-05-05 15:01:54:154 [32minfo[39m: [32m[89abe232-84db-43cd-9ca0-b1d47395af1b] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:01:56:156 [32minfo[39m: [32m[89abe232-84db-43cd-9ca0-b1d47395af1b] Tone adjustment successful[39m
+2025-05-05 15:02:03:23 [32minfo[39m: [32m[67b95636-b3a2-4e99-97d0-99f84acc2a75] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:02:03:23 [32minfo[39m: [32m[67b95636-b3a2-4e99-97d0-99f84acc2a75] Cache hit for tone adjustment[39m
+2025-05-05 15:05:16:516 [32minfo[39m: [32mCache initialized with TTL: 1800000ms, Max Size: 500 items[39m
+2025-05-05 15:05:16:516 [32minfo[39m: [32mServer running in development mode on port 5001[39m
+2025-05-05 15:05:16:516 [32minfo[39m: [32mAPI is available at: http://localhost:5001/api/v1[39m
+2025-05-05 15:11:55:1155 [32minfo[39m: [32mCache initialized with TTL: 1800000ms, Max Size: 500 items[39m
+2025-05-05 15:11:55:1155 [32minfo[39m: [32mServer running in development mode on port 5001[39m
+2025-05-05 15:11:55:1155 [32minfo[39m: [32mAPI is available at: http://localhost:5001/api/v1[39m
+2025-05-05 15:11:55:1155 [32minfo[39m: [32mMistral AI client initialized successfully[39m
+2025-05-05 15:12:07:127 [32minfo[39m: [32mCache initialized with TTL: 1800000ms, Max Size: 500 items, History Size: 100 items[39m
+2025-05-05 15:12:07:127 [32minfo[39m: [32mServer running in development mode on port 5001[39m
+2025-05-05 15:12:07:127 [32minfo[39m: [32mAPI is available at: http://localhost:5001/api/v1[39m
+2025-05-05 15:12:07:127 [32minfo[39m: [32mMistral AI client initialized successfully[39m
+2025-05-05 15:14:31:1431 [32minfo[39m: [32mCache initialized with TTL: 1800000ms, Max Size: 500 items[39m
+2025-05-05 15:14:31:1431 [32minfo[39m: [32mServer running in development mode on port 5001[39m
+2025-05-05 15:14:31:1431 [32minfo[39m: [32mAPI is available at: http://localhost:5001/api/v1[39m
+2025-05-05 15:14:32:1432 [32minfo[39m: [32m[8d47c07f-6177-4e0d-ab2a-7f50362cdd9a] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:14:33:1433 [32minfo[39m: [32m[b76bff63-60a6-4b2b-94b6-b81d6ae0747b] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:14:35:1435 [32minfo[39m: [32m[8d47c07f-6177-4e0d-ab2a-7f50362cdd9a] Tone adjustment successful[39m
+2025-05-05 15:14:37:1437 [32minfo[39m: [32m[06887efa-1936-4729-90c9-f56e39cf815b] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:14:37:1437 [32minfo[39m: [32m[06887efa-1936-4729-90c9-f56e39cf815b] Cache hit for tone adjustment[39m
+2025-05-05 15:14:37:1437 [32minfo[39m: [32m[b76bff63-60a6-4b2b-94b6-b81d6ae0747b] Tone adjustment successful[39m
+2025-05-05 15:14:39:1439 [32minfo[39m: [32m[746bc2c6-3772-46ce-8764-c13475a0da9f] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:14:39:1439 [32minfo[39m: [32m[746bc2c6-3772-46ce-8764-c13475a0da9f] Cache hit for tone adjustment[39m
+2025-05-05 15:14:41:1441 [32minfo[39m: [32m[68249c1b-a5b7-4974-a0b4-26a9ba8621b8] Tone adjustment request received: 306 chars, tone: 13[39m
+2025-05-05 15:14:41:1441 [32minfo[39m: [32m[68249c1b-a5b7-4974-a0b4-26a9ba8621b8] Cache hit for tone adjustment[39m
+2025-05-05 15:14:44:1444 [32minfo[39m: [32m[fd24fe3b-fa26-4e7b-8cb3-cd0b4c4d8bc7] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:14:46:1446 [32minfo[39m: [32m[fd24fe3b-fa26-4e7b-8cb3-cd0b4c4d8bc7] Tone adjustment successful[39m
+2025-05-05 15:14:47:1447 [32minfo[39m: [32m[a6bccf3b-dba8-4ad2-bd54-167e4058c7c7] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:14:47:1447 [32minfo[39m: [32m[a6bccf3b-dba8-4ad2-bd54-167e4058c7c7] Cache hit for tone adjustment[39m
+2025-05-05 15:14:50:1450 [32minfo[39m: [32m[51c78831-de59-46bb-8da2-41ea3be1859b] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:14:50:1450 [32minfo[39m: [32m[51c78831-de59-46bb-8da2-41ea3be1859b] Cache hit for tone adjustment[39m
+2025-05-05 15:14:52:1452 [32minfo[39m: [32m[d4db84c9-3faa-4aed-a48b-fccbe374a6d2] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:14:52:1452 [32minfo[39m: [32m[d4db84c9-3faa-4aed-a48b-fccbe374a6d2] Cache hit for tone adjustment[39m
+2025-05-05 15:14:54:1454 [32minfo[39m: [32m[8e465715-3fa5-424f-a30d-07929c9c77b1] Tone adjustment request received: 58 chars, tone: 84[39m
+2025-05-05 15:14:55:1455 [32minfo[39m: [32m[8e465715-3fa5-424f-a30d-07929c9c77b1] Tone adjustment successful[39m
+2025-05-05 15:14:56:1456 [32minfo[39m: [32m[ba79cef9-22ad-4e11-99f9-fb45280f3e51] Tone adjustment request received: 58 chars, tone: 84[39m
+2025-05-05 15:14:56:1456 [32minfo[39m: [32m[ba79cef9-22ad-4e11-99f9-fb45280f3e51] Cache hit for tone adjustment[39m
+2025-05-05 15:14:58:1458 [32minfo[39m: [32m[ca79b9bc-c95a-43b2-83cc-045fc8f70c9c] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:14:58:1458 [32minfo[39m: [32m[ca79b9bc-c95a-43b2-83cc-045fc8f70c9c] Cache hit for tone adjustment[39m
+2025-05-05 15:14:59:1459 [32minfo[39m: [32m[2da1d549-ca4f-4a58-a6d5-c57b55b70c74] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:14:59:1459 [32minfo[39m: [32m[2da1d549-ca4f-4a58-a6d5-c57b55b70c74] Cache hit for tone adjustment[39m
+2025-05-05 15:15:02:152 [32minfo[39m: [32m[8a47dfc9-60a8-4bc1-b606-349cf4d27750] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:15:02:152 [32minfo[39m: [32m[8a47dfc9-60a8-4bc1-b606-349cf4d27750] Cache hit for tone adjustment[39m
+2025-05-05 15:15:04:154 [32minfo[39m: [32m[e3c28ca2-4d7e-4135-a185-8910b2fb334c] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:15:04:154 [32minfo[39m: [32m[e3c28ca2-4d7e-4135-a185-8910b2fb334c] Cache hit for tone adjustment[39m
+2025-05-05 15:15:28:1528 [32minfo[39m: [32m[ad06d0dd-104f-4c9f-96fd-e01c7ddca4e2] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 15:15:30:1530 [32minfo[39m: [32m[ad06d0dd-104f-4c9f-96fd-e01c7ddca4e2] Tone adjustment successful[39m
+2025-05-05 15:15:31:1531 [32minfo[39m: [32m[45e88866-3cbb-46bb-833f-dbe1e2d47de0] Tone adjustment request received: 306 chars, tone: 50[39m
+2025-05-05 15:15:31:1531 [32minfo[39m: [32m[45e88866-3cbb-46bb-833f-dbe1e2d47de0] Cache hit for tone adjustment[39m
+2025-05-05 15:15:34:1534 [32minfo[39m: [32m[f81fe935-588c-4337-bc95-0e0686185161] Tone adjustment request received: 306 chars, tone: 71[39m
+2025-05-05 15:15:37:1537 [32minfo[39m: [32m[f81fe935-588c-4337-bc95-0e0686185161] Tone adjustment successful[39m
+2025-05-05 15:15:37:1537 [32minfo[39m: [32m[26fd0a99-95a4-4f00-bc83-43f98276343a] Tone adjustment request received: 306 chars, tone: 71[39m
+2025-05-05 15:15:37:1537 [32minfo[39m: [32m[26fd0a99-95a4-4f00-bc83-43f98276343a] Cache hit for tone adjustment[39m
+2025-05-05 15:15:40:1540 [32minfo[39m: [32m[ea0356a1-3bbf-48f4-9bca-48b8cef9671f] Tone adjustment request received: 306 chars, tone: 91[39m
+2025-05-05 15:15:41:1541 [32minfo[39m: [32m[ea0356a1-3bbf-48f4-9bca-48b8cef9671f] Tone adjustment successful[39m
+2025-05-05 15:15:43:1543 [32minfo[39m: [32m[5e21f59a-e649-42fd-a2e3-c166b42bc260] Tone adjustment request received: 58 chars, tone: 71[39m
+2025-05-05 15:15:43:1543 [32minfo[39m: [32m[5e21f59a-e649-42fd-a2e3-c166b42bc260] Tone adjustment successful[39m
+2025-05-05 15:15:44:1544 [32minfo[39m: [32m[beabbcd8-12a6-4740-b069-b406aedf24ce] Tone adjustment request received: 58 chars, tone: 71[39m
+2025-05-05 15:15:44:1544 [32minfo[39m: [32m[beabbcd8-12a6-4740-b069-b406aedf24ce] Cache hit for tone adjustment[39m
+2025-05-05 15:15:51:1551 [32minfo[39m: [32m[5c3dc2ff-8eef-404a-8fe2-c006aa07b968] Tone adjustment request received: 58 chars, tone: 48[39m
+2025-05-05 15:15:52:1552 [32minfo[39m: [32m[5c3dc2ff-8eef-404a-8fe2-c006aa07b968] Tone adjustment successful[39m
+2025-05-05 15:15:53:1553 [32minfo[39m: [32m[43b75d18-42af-492f-906d-bf5f18b633b6] Tone adjustment request received: 58 chars, tone: 48[39m
+2025-05-05 15:15:53:1553 [32minfo[39m: [32m[43b75d18-42af-492f-906d-bf5f18b633b6] Cache hit for tone adjustment[39m
+2025-05-05 15:15:54:1554 [32minfo[39m: [32m[cfd05a48-22a1-4a65-9aa8-88ea6ad4a88f] Tone adjustment request received: 58 chars, tone: 71[39m
+2025-05-05 15:15:54:1554 [32minfo[39m: [32m[cfd05a48-22a1-4a65-9aa8-88ea6ad4a88f] Cache hit for tone adjustment[39m
+2025-05-05 15:15:57:1557 [32minfo[39m: [32m[ba287346-4e88-4554-9a8d-9c65d3f3b723] Tone adjustment request received: 306 chars, tone: 48[39m
+2025-05-05 15:15:58:1558 [32minfo[39m: [32m[ba287346-4e88-4554-9a8d-9c65d3f3b723] Tone adjustment successful[39m
+2025-05-05 15:15:59:1559 [32minfo[39m: [32m[ad10bdfe-f58c-45f9-8e3e-0ff983ab2e9a] Tone adjustment request received: 306 chars, tone: 48[39m
+2025-05-05 15:15:59:1559 [32minfo[39m: [32m[ad10bdfe-f58c-45f9-8e3e-0ff983ab2e9a] Cache hit for tone adjustment[39m
+2025-05-05 15:16:02:162 [32minfo[39m: [32m[4894caf2-452d-47ea-8f03-e8fb451e3373] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:16:02:162 [32minfo[39m: [32m[4894caf2-452d-47ea-8f03-e8fb451e3373] Cache hit for tone adjustment[39m
+2025-05-05 15:16:03:163 [32minfo[39m: [32m[77a336a7-1851-470c-80f7-cc5fd670a425] Tone adjustment request received: 58 chars, tone: 50[39m
+2025-05-05 15:16:03:163 [32minfo[39m: [32m[77a336a7-1851-470c-80f7-cc5fd670a425] Cache hit for tone adjustment[39m
