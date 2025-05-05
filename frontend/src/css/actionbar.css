@@ -1,0 +1,51 @@
+/* ActionBar.css */
+.action-bar {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  
+  .action-button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 12px;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .action-button:hover:not(:disabled) {
+    background-color: #e8e8e8;
+  }
+  
+  .action-button:disabled,
+  .action-button.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  /* Visual indicator that undo/redo is available */
+  .undo-button:not(:disabled),
+  .redo-button:not(:disabled) {
+    border-color: #0066cc;
+    color: #0066cc;
+  }
+  
+  /* Add animation for loading state */
+  @keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
+  }
+  
+  button:disabled svg {
+    opacity: 0.5;
+  }
+  
+  .action-button svg {
+    width: 16px;
+    height: 16px;
+  }

@@ -1,0 +1,39 @@
+2025-05-04 03:28:02:282 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not a constructor[39m
+2025-05-04 03:34:38:3438 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not a constructor[39m
+2025-05-04 03:35:21:3521 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not a constructor[39m
+2025-05-04 03:35:42:3542 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not a constructor[39m
+2025-05-04 03:35:46:3546 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not a constructor[39m
+2025-05-04 03:36:34:3634 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not defined[39m
+2025-05-04 03:37:07:377 [31merror[39m: [31mFailed to initialize Mistral AI client: MistralClient is not defined[39m
+2025-05-04 03:39:53:3953 [31merror[39m: [31mUncaught Exception: write EIO[39m
+2025-05-04 20:47:34:4734 [31merror[39m: [31mMistral AI error: Mistral AI client is not initialized[39m
+2025-05-04 20:47:34:4734 [31merror[39m: [31m[POST] /api/v1/tone >> StatusCode: 500, Message: Failed to adjust text tone[39m
+[31mError: Failed to adjust text tone[39m
+[31m    at MistralService.adjustTextTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/services/mistralService.js:144:13)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async exports.adjustTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/controller/toneController.js:54:26)[39m
+2025-05-04 20:48:22:4822 [31merror[39m: [31mMistral AI error: Mistral AI client is not initialized[39m
+2025-05-04 20:48:22:4822 [31merror[39m: [31m[POST] /api/v1/tone >> StatusCode: 500, Message: Failed to adjust text tone[39m
+[31mError: Failed to adjust text tone[39m
+[31m    at MistralService.adjustTextTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/services/mistralService.js:144:13)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async exports.adjustTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/controller/toneController.js:54:26)[39m
+2025-05-04 20:52:33:5233 [31merror[39m: [31mMistral AI error: Mistral AI client is not initialized[39m
+2025-05-04 20:52:33:5233 [31merror[39m: [31m[POST] /api/v1/tone >> StatusCode: 500, Message: Failed to adjust text tone[39m
+[31mError: Failed to adjust text tone[39m
+[31m    at MistralService.adjustTextTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/services/mistralService.js:144:13)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async exports.adjustTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/controller/toneController.js:54:26)[39m
+2025-05-04 20:52:34:5234 [31merror[39m: [31mMistral AI error: Mistral AI client is not initialized[39m
+2025-05-04 20:52:34:5234 [31merror[39m: [31m[POST] /api/v1/tone >> StatusCode: 500, Message: Failed to adjust text tone[39m
+[31mError: Failed to adjust text tone[39m
+[31m    at MistralService.adjustTextTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/services/mistralService.js:144:13)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async exports.adjustTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/controller/toneController.js:54:26)[39m
+2025-05-04 20:52:44:5244 [31merror[39m: [31mMistral AI error: Mistral AI client is not initialized[39m
+2025-05-04 20:52:44:5244 [31merror[39m: [31m[POST] /api/v1/tone >> StatusCode: 500, Message: Failed to adjust text tone[39m
+[31mError: Failed to adjust text tone[39m
+[31m    at MistralService.adjustTextTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/services/mistralService.js:144:13)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    at async exports.adjustTone (/Users/kushalarogyaswami/Documents/fiddleproject1/backend/controller/toneController.js:54:26)[39m
+2025-05-05 02:08:47:847 [31merror[39m: [31mUncaught Exception: write EIO[39m
